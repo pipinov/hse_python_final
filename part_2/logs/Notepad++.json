@@ -1,0 +1,7 @@
+{
+    "result": "warning",
+    "data": {
+        "warning": "Nothing found for Burpsuite search request",
+        "errorCode": 401
+    }
+}

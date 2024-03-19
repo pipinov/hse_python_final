@@ -1,0 +1,9 @@
+Vulnerabilities found for nginx version 1.14.0:
+CVE-2018-16843
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-16843
+
+CVE-2018-16844
+TITLE: Default configuration
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-16844
+

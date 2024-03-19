@@ -1,0 +1,805 @@
+Vulnerabilities found for Apache HTTP Server version 2.4.29:
+CVE-2021-40438
+TITLE: Exploit for Server-Side Request Forgery in Apache Http Server
+HREF: https://github.com/ericmann/apache-cve-poc
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/thehackersbrain/CVE-2021-41773
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/the29a/CVE-2021-41773
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/puckiestyle/CVE-2021-41773
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/DoTuan1/Reserch-CVE-2021-41773
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/shellreaper/CVE-2021-41773
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/mightysai1997/CVE-2021-41773-i-
+
+CVE-2019-0211
+TITLE: Apache 2.4.17 < 2.4.38 - apache2ctl graceful (logrotate) Local Privilege Escalation Exploit
+HREF: https://0day.today/exploit/description/32502
+
+CVE-2019-10092
+TITLE: Apache Httpd mod_proxy - Error Page Cross-Site Scripting Vulnerability
+HREF: https://0day.today/exploit/description/33575
+
+CVE-2019-10098
+TITLE: Apache Httpd mod_rewrite - Open Redirects Vulnerability
+HREF: https://0day.today/exploit/description/33577
+
+CVE-2020-11984
+TITLE: Apache2 mod_proxy_uwsgi Incorrect Request Handling Exploit
+HREF: https://0day.today/exploit/description/34882
+
+CVE-2020-11993
+TITLE: Apache 2 HTTP2 Module Concurrent Pool Usage Vulnerability
+HREF: https://0day.today/exploit/description/35422
+
+CVE-2021-41773, CVE-2021-42013
+TITLE: Apache 2.4.49 / 2.4.50 Traversal / Remote Code Execution Exploit
+HREF: https://0day.today/exploit/description/36952
+
+CVE-2021-42013
+TITLE: Apache 2.4.50 Remote Code Execution Exploit
+HREF: https://0day.today/exploit/description/37777
+
+CVE-2021-44790
+TITLE: Apache 2.4.x - Buffer Overflow Exploit
+HREF: https://0day.today/exploit/description/38427
+
+CVE-2023-25690
+TITLE: Apache 2.4.55 mod_proxy HTTP Request Smuggling Exploit
+HREF: https://0day.today/exploit/description/39214
+
+CVE-2023-44487
+TITLE: Exploit for Uncontrolled Resource Consumption in Ietf Http
+HREF: https://github.com/secengjeff/rapidresetclient
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/spiderz0ne/CVE-2021-41773
+
+CVE-2021-42013
+TITLE: Exploit for CVE-2021-42013
+HREF: https://github.com/cybfar/cve-2021-42013-httpd
+
+CVE-2021-42013
+TITLE: Exploit for CVE-2021-42013
+HREF: https://github.com/TheLastVvV/CVE-2021-42013
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/Fa1c0n35/CVE-2021-41773
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/aqiao-jashell/CVE-2021-41773
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/MazX0p/CVE-2021-41773
+
+CVE-2021-40438
+TITLE: Exploit for Server-Side Request Forgery in Apache Http Server
+HREF: https://github.com/sergiovks/CVE-2021-40438-Apache-2.4.48-SSRF-exploit
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/Iris288/CVE-2021-41773
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/walnutsecurity/cve-2021-41773
+
+CVE-2023-25690
+TITLE: Exploit for HTTP Request Smuggling in Apache Http Server
+HREF: https://github.com/thanhlam-attt/CVE-2023-25690
+
+CVE-2019-10092
+TITLE: Exploit for Cross-site Scripting in Apache Http Server
+HREF: https://github.com/motikan2010/CVE-2019-10092_Docker
+
+CVE-2021-40438
+TITLE: Exploit for Server-Side Request Forgery in Apache Http Server
+HREF: https://github.com/gassara-kys/CVE-2021-40438
+
+CVE-2021-40438
+TITLE: Exploit for Server-Side Request Forgery in Apache Http Server
+HREF: https://github.com/xiaojiangxl/CVE-2021-40438
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/0xAlmighty/CVE-2021-41773-PoC
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/vuongnv3389-sec/cve-2021-41773
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/i6c/MASS_CVE-2021-41773
+
+CVE-2021-42013
+TITLE: Exploit for CVE-2021-42013
+HREF: https://github.com/walnutsecurity/cve-2021-42013
+
+CVE-2021-42013
+TITLE: Exploit for CVE-2021-42013
+HREF: https://github.com/LayarKacaSiber/CVE-2021-42013
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/vida00/Scanner-CVE-2021-41773
+
+CVE-2023-44487
+TITLE: Exploit for Uncontrolled Resource Consumption in Ietf Http
+HREF: https://github.com/sigridou/CVE-2023-44487-
+
+CVE-2023-25690
+TITLE: Exploit for HTTP Request Smuggling in Apache Http Server
+HREF: https://github.com/dhmosfunk/CVE-2023-25690-POC
+
+CVE-2021-42013
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/viliuspovilaika/cve-2021-42013
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/mightysai1997/CVE-2021-41773m
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/mightysai1997/CVE-2021-41773-L-
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/justakazh/mass_cve-2021-41773
+
+CVE-2021-42013
+TITLE: Exploit for CVE-2021-42013
+HREF: https://github.com/jas9reet/CVE-2021-42013-LAB
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/MatanelGordon/docker-cve-2021-41773
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/iosifache/ApacheRCEEssay
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/WynSon/CVE-2021-41773
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/iilegacyyii/PoC-CVE-2021-41773
+
+CVE-2021-42013
+TITLE: Exploit for CVE-2021-42013
+HREF: https://github.com/TheLastVvV/CVE-2021-42013_Reverse-Shell
+
+CVE-2021-40438
+TITLE: Exploit for Server-Side Request Forgery in Apache Http Server
+HREF: https://github.com/Kashkovsky/CVE-2021-40438
+
+CVE-2023-44487
+TITLE: Exploit for Uncontrolled Resource Consumption in Ietf Http
+HREF: https://github.com/imabee101/CVE-2023-44487
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/LudovicPatho/CVE-2021-41773
+
+CVE-2021-42013
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/mightysai1997/cve-2021-42013.get
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/EkamSinghWalia/Mitigation-Apache-CVE-2021-41773-
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/cgddgc/CVE-2021-41773-42013
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/kubota/POC-CVE-2021-41773
+
+CVE-2023-44487
+TITLE: Exploit for Uncontrolled Resource Consumption in Ietf Http
+HREF: https://github.com/ReToCode/golang-CVE-2023-44487
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/EagleTube/CVE-2021-41773
+
+CVE-2021-40438
+TITLE: Exploit for Server-Side Request Forgery in Apache Http Server
+HREF: https://github.com/sergiovks/CVE-2021-40438---Apache-2.4.48---SSRF-exploit
+
+CVE-2023-44487
+TITLE: Exploit for Uncontrolled Resource Consumption in Ietf Http
+HREF: https://github.com/bcdannyboy/CVE-2023-44487
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/mightysai1997/CVE-2021-41773.git1
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/mightysai1997/CVE-2021-41773-PoC
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/TheKernelPanic/exploit-apache2-cve-2021-41773
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/mauricelambert/CVE-2021-41773
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/aqiao-jashell/py-CVE-2021-41773
+
+CVE-2023-44487
+TITLE: Exploit for Uncontrolled Resource Consumption in Ietf Http
+HREF: https://github.com/ndrscodes/http2-rst-stream-attacker
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/LayarKacaSiber/CVE-2021-41773
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/apapedulimu/Apachuk
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/TheLastVvV/CVE-2021-41773
+
+CVE-2023-44487
+TITLE: Exploit for Uncontrolled Resource Consumption in Ietf Http
+HREF: https://github.com/terrorist/HTTP-2-Rapid-Reset-Client
+
+CVE-2021-42013
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/mightysai1997/cve-2021-42013
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/jheeree/Simple-CVE-2021-41773-checker
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/dileepdkumar/LayarKacaSiber-CVE-2021-41773
+
+CVE-2021-44790
+TITLE: Apache HTTP Server Buffer Overflow Vulnerability (CNVD-2021-102386)
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2021-102386
+
+CVE-2021-34798
+TITLE: Apache HTTP Server code issue vulnerability
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2022-03223
+
+CVE-2021-40438
+TITLE: Apache HTTP Server mod_proxy server-side request forgery vulnerability
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2022-03224
+
+CVE-2021-39275
+TITLE: Apache HTTP Server ap_escape_quotes buffer overflow vulnerability
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2022-03225
+
+CVE-2022-28330
+TITLE: Apache HTTP Server mod_isapi module buffer overflow vulnerability
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2022-53582
+
+CVE-2022-29404
+TITLE: Apache HTTP Server Input Validation Error Vulnerability
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2022-53584
+
+CVE-2022-30556
+TITLE: Apache HTTP Server Information Disclosure Vulnerability (CNVD-2022-73122)
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2022-73122
+
+CVE-2022-31813
+TITLE: Apache HTTP Server Data Forgery Issue Vulnerability (CNVD-2022-73123)
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2022-73123
+
+CVE-2006-20001
+TITLE: Apache HTTP Server Buffer Overflow Vulnerability (CNVD-2023-80558)
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-80558
+
+CVE-2023-31122
+TITLE: Apache HTTP Server Buffer Overflow Vulnerability (CNVD-2023-93320)
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-93320
+
+CVE-2006-20001
+TITLE: CVE-2006-20001
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2006-20001
+
+CVE-2017-15710
+TITLE: CVE-2017-15710
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2017-15710
+
+CVE-2017-15715
+TITLE: CVE-2017-15715
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2017-15715
+
+CVE-2018-11763
+TITLE: CVE-2018-11763
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-11763
+
+CVE-2018-1283
+TITLE: CVE-2018-1283
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-1283
+
+CVE-2018-1301
+TITLE: CVE-2018-1301
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-1301
+
+CVE-2018-1302
+TITLE: CVE-2018-1302
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-1302
+
+CVE-2018-1303
+TITLE: CVE-2018-1303
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-1303
+
+CVE-2018-1312
+TITLE: CVE-2018-1312
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-1312
+
+CVE-2018-1333
+TITLE: CVE-2018-1333
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-1333
+
+CVE-2018-17189
+TITLE: CVE-2018-17189
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-17189
+
+CVE-2018-17199
+TITLE: CVE-2018-17199
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-17199
+
+CVE-2019-0196
+TITLE: CVE-2019-0196
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-0196
+
+CVE-2019-0211
+TITLE: CVE-2019-0211
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-0211
+
+CVE-2019-0217
+TITLE: CVE-2019-0217
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-0217
+
+CVE-2019-0220
+TITLE: CVE-2019-0220
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-0220
+
+CVE-2019-10081
+TITLE: CVE-2019-10081
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-10081
+
+CVE-2019-10082
+TITLE: CVE-2019-10082
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-10082
+
+CVE-2019-10092
+TITLE: CVE-2019-10092
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-10092
+
+CVE-2019-10098
+TITLE: CVE-2019-10098
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-10098
+
+CVE-2019-17567
+TITLE: CVE-2019-17567
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-17567
+
+CVE-2019-9517
+TITLE: CVE-2019-9517
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-9517
+
+CVE-2020-11993
+TITLE: CVE-2020-11993
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-11993
+
+CVE-2020-1927
+TITLE: CVE-2020-1927
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1927
+
+CVE-2020-1934
+TITLE: CVE-2020-1934
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1934
+
+CVE-2020-35452
+TITLE: CVE-2020-35452
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35452
+
+CVE-2020-9490
+TITLE: CVE-2020-9490
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9490
+
+CVE-2021-26690
+TITLE: CVE-2021-26690
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26690
+
+CVE-2021-26691
+TITLE: CVE-2021-26691
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26691
+
+CVE-2021-33193
+TITLE: CVE-2021-33193
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-33193
+
+CVE-2021-34798
+TITLE: CVE-2021-34798
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-34798
+
+CVE-2021-39275
+TITLE: CVE-2021-39275
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-39275
+
+CVE-2021-40438
+TITLE: CVE-2021-40438
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-40438
+
+CVE-2021-44224
+TITLE: CVE-2021-44224
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44224
+
+CVE-2021-44790
+TITLE: CVE-2021-44790
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44790
+
+CVE-2022-22719
+TITLE: CVE-2022-22719
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22719
+
+CVE-2022-22720
+TITLE: CVE-2022-22720
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22720
+
+CVE-2022-22721
+TITLE: CVE-2022-22721
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22721
+
+CVE-2022-23943
+TITLE: CVE-2022-23943
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23943
+
+CVE-2022-26377
+TITLE: CVE-2022-26377
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-26377
+
+CVE-2022-28614
+TITLE: CVE-2022-28614
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-28614
+
+CVE-2022-28615
+TITLE: CVE-2022-28615
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-28615
+
+CVE-2022-29404
+TITLE: CVE-2022-29404
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-29404
+
+CVE-2022-30556
+TITLE: CVE-2022-30556
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-30556
+
+CVE-2022-31813
+TITLE: CVE-2022-31813
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-31813
+
+CVE-2022-36760
+TITLE: CVE-2022-36760
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36760
+
+CVE-2022-37436
+TITLE: CVE-2022-37436
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37436
+
+CVE-2023-25690
+TITLE: CVE-2023-25690
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-25690
+
+CVE-2023-31122
+TITLE: CVE-2023-31122
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-31122
+
+CVE-2023-44487, CVE-2023-45802
+TITLE: CVE-2023-45802
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-45802
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/mightysai1997/CVE-2021-41773S
+
+CVE-2023-44487
+TITLE: Exploit for Uncontrolled Resource Consumption in Ietf Http
+HREF: https://github.com/nxenon/cve-2023-44487
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/Plunder283/CVE-2021-41773
+
+CVE-2023-44487
+TITLE: Exploit for Uncontrolled Resource Consumption in Ietf Http
+HREF: https://github.com/studiogangster/CVE-2023-44487
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/AssassinUKG/CVE-2021-41773
+
+CVE-2021-42013
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/mightysai1997/cve-2021-42013L
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/anldori/CVE-2021-41773-Scanner
+
+2019-0211, CVE-2019-0211
+TITLE: Apache 2.4.17 &lt; 2.4.38 - &#039;apache2ctl graceful&#039; &#039;logrotate&#039; Local Privilege Escalation
+HREF: https://www.exploit-db.com/exploits/46676
+
+2021-41773, CVE-2021-41773
+TITLE: Apache HTTP Server 2.4.49 - Path Traversal &amp; Remote Code Execution (RCE)
+HREF: https://www.exploit-db.com/exploits/50383
+
+2021-42013, CVE-2021-42013
+TITLE: Apache HTTP Server 2.4.50 - Path Traversal &amp; Remote Code Execution (RCE)
+HREF: https://www.exploit-db.com/exploits/50406
+
+2021-42013, CVE-2021-42013
+TITLE: Apache HTTP Server 2.4.50 - Remote Code Execution (RCE) (2)
+HREF: https://www.exploit-db.com/exploits/50446
+
+2021-41773, 2021-42013, CVE-2021-41773, CVE-2021-42013
+TITLE: Apache HTTP Server 2.4.50 - Remote Code Execution (RCE) (3)
+HREF: https://www.exploit-db.com/exploits/50512
+
+2021-44790, CVE-2021-44790
+TITLE: Apache 2.4.x - Buffer Overflow
+HREF: https://www.exploit-db.com/exploits/51193
+
+CVE-2019-0211
+TITLE: Apache 2.4.17  2.4.38 - apache2ctl graceful logrotate Local Privilege Escalation
+HREF: 
+
+CVE-2023-44487
+TITLE: Exploit for Uncontrolled Resource Consumption in Ietf Http
+HREF: https://github.com/terrorist/CVE-2023-44487
+
+CVE-2021-42013
+TITLE: Exploit for CVE-2021-42013
+HREF: https://github.com/imhunterand/CVE-2021-42013
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/EkamSinghWalia/Mitigation-CVE-2021-41773-
+
+CVE-2021-40438
+TITLE: Exploit for Server-Side Request Forgery in Apache Http Server
+HREF: https://github.com/sixpacksecurity/CVE-2021-40438
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/Ming119/CVE-2021-41773_Exploit
+
+CVE-2021-41773
+TITLE: Exploit for Path Traversal in Apache Http Server
+HREF: https://github.com/shiomiyan/CVE-2021-41773
+
+CVE-2021-41773, CVE-2021-42013
+TITLE: Apache 2.4.49/2.4.50 Traversal RCE scanner
+HREF: https://www.rapid7.com/db/modules/auxiliary/scanner/http/apache_normalize_path/
+
+CVE-2021-41773, CVE-2021-42013
+TITLE: Apache 2.4.49/2.4.50 Traversal RCE
+HREF: https://www.rapid7.com/db/modules/exploit/multi/http/apache_normalize_path_rce/
+
+CVE-2023-31122
+TITLE: BIT-2023-31122
+HREF: https://osv.dev/vulnerability/BIT-2023-31122
+
+CVE-2023-43622
+TITLE: BIT-2023-43622
+HREF: https://osv.dev/vulnerability/BIT-2023-43622
+
+CVE-2023-44487, CVE-2023-45802
+TITLE: BIT-2023-45802
+HREF: https://osv.dev/vulnerability/BIT-2023-45802
+
+CVE-2020-11984
+TITLE: BIT-apache-2020-11984
+HREF: https://osv.dev/vulnerability/BIT-apache-2020-11984
+
+CVE-2020-11993
+TITLE: BIT-apache-2020-11993
+HREF: https://osv.dev/vulnerability/BIT-apache-2020-11993
+
+CVE-2020-13938
+TITLE: BIT-apache-2020-13938
+HREF: https://osv.dev/vulnerability/BIT-apache-2020-13938
+
+CVE-2020-13950
+TITLE: BIT-apache-2020-13950
+HREF: https://osv.dev/vulnerability/BIT-apache-2020-13950
+
+CVE-2020-1927
+TITLE: BIT-apache-2020-1927
+HREF: https://osv.dev/vulnerability/BIT-apache-2020-1927
+
+CVE-2020-1934
+TITLE: BIT-apache-2020-1934
+HREF: https://osv.dev/vulnerability/BIT-apache-2020-1934
+
+CVE-2020-35452
+TITLE: BIT-apache-2020-35452
+HREF: https://osv.dev/vulnerability/BIT-apache-2020-35452
+
+CVE-2020-9490
+TITLE: BIT-apache-2020-9490
+HREF: https://osv.dev/vulnerability/BIT-apache-2020-9490
+
+CVE-2021-26690
+TITLE: BIT-apache-2021-26690
+HREF: https://osv.dev/vulnerability/BIT-apache-2021-26690
+
+CVE-2021-26691
+TITLE: BIT-apache-2021-26691
+HREF: https://osv.dev/vulnerability/BIT-apache-2021-26691
+
+CVE-2021-30641
+TITLE: BIT-apache-2021-30641
+HREF: https://osv.dev/vulnerability/BIT-apache-2021-30641
+
+CVE-2021-31618
+TITLE: BIT-apache-2021-31618
+HREF: https://osv.dev/vulnerability/BIT-apache-2021-31618
+
+CVE-2021-33193
+TITLE: BIT-apache-2021-33193
+HREF: https://osv.dev/vulnerability/BIT-apache-2021-33193
+
+CVE-2021-34798
+TITLE: BIT-apache-2021-34798
+HREF: https://osv.dev/vulnerability/BIT-apache-2021-34798
+
+CVE-2021-36160
+TITLE: BIT-apache-2021-36160
+HREF: https://osv.dev/vulnerability/BIT-apache-2021-36160
+
+CVE-2021-39275
+TITLE: BIT-apache-2021-39275
+HREF: https://osv.dev/vulnerability/BIT-apache-2021-39275
+
+CVE-2021-40438
+TITLE: BIT-apache-2021-40438
+HREF: https://osv.dev/vulnerability/BIT-apache-2021-40438
+
+CVE-2021-41524
+TITLE: BIT-apache-2021-41524
+HREF: https://osv.dev/vulnerability/BIT-apache-2021-41524
+
+CVE-2021-41773, CVE-2021-42013
+TITLE: BIT-apache-2021-41773
+HREF: https://osv.dev/vulnerability/BIT-apache-2021-41773
+
+CVE-2021-41773, CVE-2021-42013
+TITLE: BIT-apache-2021-42013
+HREF: https://osv.dev/vulnerability/BIT-apache-2021-42013
+
+CVE-2021-44224
+TITLE: BIT-apache-2021-44224
+HREF: https://osv.dev/vulnerability/BIT-apache-2021-44224
+
+CVE-2021-44790
+TITLE: BIT-apache-2021-44790
+HREF: https://osv.dev/vulnerability/BIT-apache-2021-44790
+
+CVE-2022-22719
+TITLE: BIT-apache-2022-22719
+HREF: https://osv.dev/vulnerability/BIT-apache-2022-22719
+
+CVE-2022-22720
+TITLE: BIT-apache-2022-22720
+HREF: https://osv.dev/vulnerability/BIT-apache-2022-22720
+
+CVE-2022-22721
+TITLE: BIT-apache-2022-22721
+HREF: https://osv.dev/vulnerability/BIT-apache-2022-22721
+
+CVE-2022-23943
+TITLE: BIT-apache-2022-23943
+HREF: https://osv.dev/vulnerability/BIT-apache-2022-23943
+
+CVE-2022-26377
+TITLE: BIT-apache-2022-26377
+HREF: https://osv.dev/vulnerability/BIT-apache-2022-26377
+
+CVE-2022-28330
+TITLE: BIT-apache-2022-28330
+HREF: https://osv.dev/vulnerability/BIT-apache-2022-28330
+
+CVE-2022-28614
+TITLE: BIT-apache-2022-28614
+HREF: https://osv.dev/vulnerability/BIT-apache-2022-28614
+
+CVE-2022-28615
+TITLE: BIT-apache-2022-28615
+HREF: https://osv.dev/vulnerability/BIT-apache-2022-28615
+
+CVE-2022-29404
+TITLE: BIT-apache-2022-29404
+HREF: https://osv.dev/vulnerability/BIT-apache-2022-29404
+
+CVE-2022-30522
+TITLE: BIT-apache-2022-30522
+HREF: https://osv.dev/vulnerability/BIT-apache-2022-30522
+
+CVE-2022-30556
+TITLE: BIT-apache-2022-30556
+HREF: https://osv.dev/vulnerability/BIT-apache-2022-30556
+
+CVE-2022-31813
+TITLE: BIT-apache-2022-31813
+HREF: https://osv.dev/vulnerability/BIT-apache-2022-31813
+
+CVE-2022-36760
+TITLE: BIT-apache-2022-36760
+HREF: https://osv.dev/vulnerability/BIT-apache-2022-36760
+
+CVE-2022-37436
+TITLE: BIT-apache-2022-37436
+HREF: https://osv.dev/vulnerability/BIT-apache-2022-37436
+
+CVE-2023-25690
+TITLE: BIT-apache-2023-25690
+HREF: https://osv.dev/vulnerability/BIT-apache-2023-25690
+
+CVE-2023-27522
+TITLE: BIT-apache-2023-27522
+HREF: https://osv.dev/vulnerability/BIT-apache-2023-27522
+
+CVE-2023-31122
+TITLE: BIT-apache-2023-31122
+HREF: https://osv.dev/vulnerability/BIT-apache-2023-31122
+
+CVE-2023-43622
+TITLE: BIT-apache-2023-43622
+HREF: https://osv.dev/vulnerability/BIT-apache-2023-43622
+
+CVE-2023-44487, CVE-2023-45802
+TITLE: BIT-apache-2023-45802
+HREF: https://osv.dev/vulnerability/BIT-apache-2023-45802
+
+CVE-2019-0211
+TITLE: CARPE (DIEM) Apache 2.4.x Local Privilege Escalation
+HREF: https://packetstormsecurity.com/files/152441/CARPE-DIEM-Apache-2.4.x-Local-Privilege-Escalation.html
+
+CVE-2021-44790
+TITLE: Apache 2.4.x Buffer Overflow
+HREF: https://packetstormsecurity.com/files/171631/Apache-2.4.x-Buffer-Overflow.html
+
+CVE-2023-25690
+TITLE: Apache 2.4.55 mod_proxy HTTP Request Smuggling
+HREF: https://packetstormsecurity.com/files/176334/Apache-2.4.55-mod_proxy-HTTP-Request-Smuggling.html
+

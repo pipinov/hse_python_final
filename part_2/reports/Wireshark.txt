@@ -1,0 +1,573 @@
+Vulnerabilities found for Wireshark version 2.6.1:
+CVE-2018-14339
+TITLE: CVE-2018-14339
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-14339
+
+CVE-2018-14340
+TITLE: CVE-2018-14340
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-14340
+
+CVE-2018-14341
+TITLE: CVE-2018-14341
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-14341
+
+CVE-2018-14342
+TITLE: CVE-2018-14342
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-14342
+
+CVE-2018-14343
+TITLE: CVE-2018-14343
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-14343
+
+CVE-2018-14344
+TITLE: CVE-2018-14344
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-14344
+
+CVE-2018-14367
+TITLE: CVE-2018-14367
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-14367
+
+CVE-2018-14368
+TITLE: CVE-2018-14368
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-14368
+
+CVE-2018-14369
+TITLE: CVE-2018-14369
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-14369
+
+CVE-2018-14370
+TITLE: CVE-2018-14370
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-14370
+
+CVE-2018-14438
+TITLE: CVE-2018-14438
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-14438
+
+CVE-2018-16056
+TITLE: CVE-2018-16056
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-16056
+
+CVE-2018-16057
+TITLE: CVE-2018-16057
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-16057
+
+CVE-2018-16058
+TITLE: CVE-2018-16058
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-16058
+
+CVE-2018-18225
+TITLE: CVE-2018-18225
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-18225
+
+CVE-2018-18226
+TITLE: CVE-2018-18226
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-18226
+
+CVE-2018-18227
+TITLE: CVE-2018-18227
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-18227
+
+CVE-2018-19622
+TITLE: CVE-2018-19622
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-19622
+
+CVE-2018-19623
+TITLE: CVE-2018-19623
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-19623
+
+CVE-2018-19624
+TITLE: CVE-2018-19624
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-19624
+
+CVE-2018-19625
+TITLE: CVE-2018-19625
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-19625
+
+CVE-2018-19626
+TITLE: CVE-2018-19626
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-19626
+
+CVE-2018-19627
+TITLE: CVE-2018-19627
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-19627
+
+CVE-2018-19628
+TITLE: CVE-2018-19628
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-19628
+
+CVE-2019-10894
+TITLE: CVE-2019-10894
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-10894
+
+CVE-2019-10895
+TITLE: CVE-2019-10895
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-10895
+
+CVE-2019-10896
+TITLE: CVE-2019-10896
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-10896
+
+CVE-2019-10899
+TITLE: CVE-2019-10899
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-10899
+
+CVE-2019-10901
+TITLE: CVE-2019-10901
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-10901
+
+CVE-2019-10903
+TITLE: CVE-2019-10903
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-10903
+
+CVE-2019-12295
+TITLE: CVE-2019-12295
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-12295
+
+CVE-2019-13619
+TITLE: CVE-2019-13619
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-13619
+
+CVE-2019-16319
+TITLE: CVE-2019-16319
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-16319
+
+CVE-2019-19553
+TITLE: CVE-2019-19553
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-19553
+
+CVE-2019-5716
+TITLE: CVE-2019-5716
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5716
+
+CVE-2019-5717
+TITLE: CVE-2019-5717
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5717
+
+CVE-2019-5718
+TITLE: CVE-2019-5718
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5718
+
+CVE-2019-5719
+TITLE: CVE-2019-5719
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5719
+
+CVE-2019-9208
+TITLE: CVE-2019-9208
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-9208
+
+CVE-2019-9209
+TITLE: CVE-2019-9209
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-9209
+
+CVE-2019-9214
+TITLE: CVE-2019-9214
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-9214
+
+CVE-2020-11647
+TITLE: CVE-2020-11647
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-11647
+
+CVE-2020-13164
+TITLE: CVE-2020-13164
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13164
+
+CVE-2020-25862
+TITLE: CVE-2020-25862
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25862
+
+CVE-2020-25863
+TITLE: CVE-2020-25863
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25863
+
+CVE-2020-9428
+TITLE: CVE-2020-9428
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9428
+
+CVE-2020-9430
+TITLE: CVE-2020-9430
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9430
+
+CVE-2020-9431
+TITLE: CVE-2020-9431
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9431
+
+CVE-2018-14339
+TITLE: CVE-2018-14339
+HREF: https://osv.dev/vulnerability/CVE-2018-14339
+
+CVE-2018-14340
+TITLE: CVE-2018-14340
+HREF: https://osv.dev/vulnerability/CVE-2018-14340
+
+CVE-2018-14341
+TITLE: CVE-2018-14341
+HREF: https://osv.dev/vulnerability/CVE-2018-14341
+
+CVE-2018-14342
+TITLE: CVE-2018-14342
+HREF: https://osv.dev/vulnerability/CVE-2018-14342
+
+CVE-2018-14343
+TITLE: CVE-2018-14343
+HREF: https://osv.dev/vulnerability/CVE-2018-14343
+
+CVE-2018-14344
+TITLE: CVE-2018-14344
+HREF: https://osv.dev/vulnerability/CVE-2018-14344
+
+CVE-2018-14367
+TITLE: CVE-2018-14367
+HREF: https://osv.dev/vulnerability/CVE-2018-14367
+
+CVE-2018-14368
+TITLE: CVE-2018-14368
+HREF: https://osv.dev/vulnerability/CVE-2018-14368
+
+CVE-2018-14369
+TITLE: CVE-2018-14369
+HREF: https://osv.dev/vulnerability/CVE-2018-14369
+
+CVE-2018-14370
+TITLE: CVE-2018-14370
+HREF: https://osv.dev/vulnerability/CVE-2018-14370
+
+CVE-2018-14438
+TITLE: CVE-2018-14438
+HREF: https://osv.dev/vulnerability/CVE-2018-14438
+
+CVE-2018-16056
+TITLE: CVE-2018-16056
+HREF: https://osv.dev/vulnerability/CVE-2018-16056
+
+CVE-2018-16057
+TITLE: CVE-2018-16057
+HREF: https://osv.dev/vulnerability/CVE-2018-16057
+
+CVE-2018-16058
+TITLE: CVE-2018-16058
+HREF: https://osv.dev/vulnerability/CVE-2018-16058
+
+CVE-2018-18225
+TITLE: CVE-2018-18225
+HREF: https://osv.dev/vulnerability/CVE-2018-18225
+
+CVE-2018-18226
+TITLE: CVE-2018-18226
+HREF: https://osv.dev/vulnerability/CVE-2018-18226
+
+CVE-2018-18227
+TITLE: CVE-2018-18227
+HREF: https://osv.dev/vulnerability/CVE-2018-18227
+
+CVE-2018-19622
+TITLE: CVE-2018-19622
+HREF: https://osv.dev/vulnerability/CVE-2018-19622
+
+CVE-2018-19623
+TITLE: CVE-2018-19623
+HREF: https://osv.dev/vulnerability/CVE-2018-19623
+
+CVE-2018-19624
+TITLE: CVE-2018-19624
+HREF: https://osv.dev/vulnerability/CVE-2018-19624
+
+CVE-2018-19625
+TITLE: CVE-2018-19625
+HREF: https://osv.dev/vulnerability/CVE-2018-19625
+
+CVE-2018-19626
+TITLE: CVE-2018-19626
+HREF: https://osv.dev/vulnerability/CVE-2018-19626
+
+CVE-2018-19627
+TITLE: CVE-2018-19627
+HREF: https://osv.dev/vulnerability/CVE-2018-19627
+
+CVE-2018-19628
+TITLE: CVE-2018-19628
+HREF: https://osv.dev/vulnerability/CVE-2018-19628
+
+CVE-2019-10894
+TITLE: CVE-2019-10894
+HREF: https://osv.dev/vulnerability/CVE-2019-10894
+
+CVE-2019-10895
+TITLE: CVE-2019-10895
+HREF: https://osv.dev/vulnerability/CVE-2019-10895
+
+CVE-2019-10896
+TITLE: CVE-2019-10896
+HREF: https://osv.dev/vulnerability/CVE-2019-10896
+
+CVE-2019-10899
+TITLE: CVE-2019-10899
+HREF: https://osv.dev/vulnerability/CVE-2019-10899
+
+CVE-2019-10901
+TITLE: CVE-2019-10901
+HREF: https://osv.dev/vulnerability/CVE-2019-10901
+
+CVE-2019-10903
+TITLE: CVE-2019-10903
+HREF: https://osv.dev/vulnerability/CVE-2019-10903
+
+CVE-2019-13619
+TITLE: CVE-2019-13619
+HREF: https://osv.dev/vulnerability/CVE-2019-13619
+
+CVE-2019-16319
+TITLE: CVE-2019-16319
+HREF: https://osv.dev/vulnerability/CVE-2019-16319
+
+CVE-2019-19553
+TITLE: CVE-2019-19553
+HREF: https://osv.dev/vulnerability/CVE-2019-19553
+
+CVE-2019-5716
+TITLE: CVE-2019-5716
+HREF: https://osv.dev/vulnerability/CVE-2019-5716
+
+CVE-2019-5717
+TITLE: CVE-2019-5717
+HREF: https://osv.dev/vulnerability/CVE-2019-5717
+
+CVE-2019-5718
+TITLE: CVE-2019-5718
+HREF: https://osv.dev/vulnerability/CVE-2019-5718
+
+CVE-2019-5719
+TITLE: CVE-2019-5719
+HREF: https://osv.dev/vulnerability/CVE-2019-5719
+
+CVE-2019-9208
+TITLE: CVE-2019-9208
+HREF: https://osv.dev/vulnerability/CVE-2019-9208
+
+CVE-2019-9209
+TITLE: CVE-2019-9209
+HREF: https://osv.dev/vulnerability/CVE-2019-9209
+
+CVE-2019-9214
+TITLE: CVE-2019-9214
+HREF: https://osv.dev/vulnerability/CVE-2019-9214
+
+CVE-2020-11647
+TITLE: CVE-2020-11647
+HREF: https://osv.dev/vulnerability/CVE-2020-11647
+
+CVE-2020-13164
+TITLE: CVE-2020-13164
+HREF: https://osv.dev/vulnerability/CVE-2020-13164
+
+CVE-2020-25862
+TITLE: CVE-2020-25862
+HREF: https://osv.dev/vulnerability/CVE-2020-25862
+
+CVE-2020-25863
+TITLE: CVE-2020-25863
+HREF: https://osv.dev/vulnerability/CVE-2020-25863
+
+CVE-2020-9428
+TITLE: CVE-2020-9428
+HREF: https://osv.dev/vulnerability/CVE-2020-9428
+
+CVE-2020-9430
+TITLE: CVE-2020-9430
+HREF: https://osv.dev/vulnerability/CVE-2020-9430
+
+CVE-2020-9431
+TITLE: CVE-2020-9431
+HREF: https://osv.dev/vulnerability/CVE-2020-9431
+
+CVE-2018-14339
+TITLE: Input validation
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-14339
+
+CVE-2018-14340
+TITLE: Buffer overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-14340
+
+CVE-2018-14341
+TITLE: Integer overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-14341
+
+CVE-2018-14342
+TITLE: Path traversal
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-14342
+
+CVE-2018-14343
+TITLE: Integer overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-14343
+
+CVE-2018-14344
+TITLE: Buffer overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-14344
+
+CVE-2018-14367
+TITLE: Race condition
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-14367
+
+CVE-2018-14368
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-14368
+
+CVE-2018-14369
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-14369
+
+CVE-2018-14370
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-14370
+
+CVE-2018-14438
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-14438
+
+CVE-2018-16056
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-16056
+
+CVE-2018-16057
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-16057
+
+CVE-2018-16058
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-16058
+
+CVE-2018-18225
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-18225
+
+CVE-2018-18226
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-18226
+
+CVE-2018-18227
+TITLE: Input validation
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-18227
+
+CVE-2018-19622
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-19622
+
+CVE-2018-19623
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-19623
+
+CVE-2018-19624
+TITLE: Null pointer dereference
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-19624
+
+CVE-2018-19625
+TITLE: Heap overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-19625
+
+CVE-2018-19626
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-19626
+
+CVE-2018-19627
+TITLE: Information disclosure
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-19627
+
+CVE-2018-19628
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-19628
+
+CVE-2019-10894
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-10894
+
+CVE-2019-10895
+TITLE: Input validation
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-10895
+
+CVE-2019-10896
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-10896
+
+CVE-2019-10899
+TITLE: Heap overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-10899
+
+CVE-2019-10901
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-10901
+
+CVE-2019-10903
+TITLE: Information disclosure
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-10903
+
+CVE-2019-12295
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-12295
+
+CVE-2019-13619
+TITLE: Buffer overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-13619
+
+CVE-2019-16319
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-16319
+
+CVE-2019-19553
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-19553
+
+CVE-2019-5716
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-5716
+
+CVE-2019-5717
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-5717
+
+CVE-2019-5718
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-5718
+
+CVE-2019-5719
+TITLE: Information disclosure
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-5719
+
+CVE-2019-9208
+TITLE: Null pointer dereference
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9208
+
+CVE-2019-9209
+TITLE: Buffer overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9209
+
+CVE-2019-9214
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9214
+
+CVE-2020-11647
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-11647
+
+CVE-2020-13164
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-13164
+
+CVE-2020-25862
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-25862
+
+CVE-2020-25863
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-25863
+
+CVE-2020-9428
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-9428
+
+CVE-2020-9430
+TITLE: Denial of service
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-9430
+
+CVE-2020-9431
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-9431
+

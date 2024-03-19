@@ -1,0 +1,701 @@
+Vulnerabilities found for Google Chrome version 68.0.3440.106:
+CVE-2023-3079
+TITLE: Exploit for Type Confusion in Google Chrome
+HREF: https://github.com/mistymntncop/CVE-2023-3079
+
+CVE-2019-5789
+TITLE: Google Chrome < M73 - MidiManagerWin Use-After-Free Exploit
+HREF: https://0day.today/exploit/description/32384
+
+CVE-2019-5788
+TITLE: Google Chrome < M73 - FileSystemOperationRunner Use-After-Free Exploit
+HREF: https://0day.today/exploit/description/32385
+
+CVE-2020-6404
+TITLE: Google Chrome 80.0.3987.87 - Heap-Corruption Remote Denial of Service Exploit
+HREF: https://0day.today/exploit/description/34124
+
+CVE-2023-4352
+TITLE: Chrome Read-Only Property Overwrite Exploit
+HREF: https://0day.today/exploit/description/39068
+
+CVE-2023-4357
+TITLE: Exploit for Vulnerability in Google Chrome
+HREF: https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation
+
+CVE-2023-5217
+TITLE: Exploit for Out-of-bounds Write in Webmproject Libvpx
+HREF: https://github.com/Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217
+
+CVE-2023-4357
+TITLE: Exploit for Vulnerability in Google Chrome
+HREF: https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE
+
+CVE-2023-4863
+TITLE: Exploit for Out-of-bounds Write in Google Chrome
+HREF: https://github.com/murphysecurity/libwebp-checker
+
+CVE-2023-5217
+TITLE: Exploit for Out-of-bounds Write in Webmproject Libvpx
+HREF: https://github.com/wrv/cve-2023-5217-poc
+
+CVE-2023-2033
+TITLE: Exploit for Type Confusion in Google Chrome
+HREF: https://github.com/sandumjacob/CVE-2023-2033-Analysis
+
+CVE-2019-13764
+TITLE: Exploit for Type Confusion in Google Chrome
+HREF: https://github.com/HaboobLab/CVE-2019-13764
+
+CVE-2023-5217
+TITLE: Exploit for Out-of-bounds Write in Webmproject Libvpx
+HREF: https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217
+
+CVE-2023-4357
+TITLE: Exploit for Vulnerability in Google Chrome
+HREF: https://github.com/WinnieZy/CVE-2023-4357
+
+CVE-2023-4350
+TITLE: Exploit for Vulnerability in Google Chrome
+HREF: https://github.com/0nyx-hkr/cve-2023-4350
+
+CVE-2019-13705
+TITLE: CVE-2019-13705
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-13705
+
+CVE-2019-13707
+TITLE: CVE-2019-13707
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-13707
+
+CVE-2019-13711
+TITLE: CVE-2019-13711
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-13711
+
+CVE-2019-13713
+TITLE: CVE-2019-13713
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-13713
+
+CVE-2019-13723
+TITLE: CVE-2019-13723
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-13723
+
+CVE-2019-13730
+TITLE: CVE-2019-13730
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-13730
+
+CVE-2019-13734
+TITLE: CVE-2019-13734
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-13734
+
+CVE-2019-13745
+TITLE: CVE-2019-13745
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-13745
+
+CVE-2019-13764
+TITLE: CVE-2019-13764
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-13764
+
+CVE-2019-5787
+TITLE: CVE-2019-5787
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5787
+
+CVE-2019-5788
+TITLE: CVE-2019-5788
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5788
+
+CVE-2019-5789
+TITLE: CVE-2019-5789
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5789
+
+CVE-2019-5790
+TITLE: CVE-2019-5790
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5790
+
+CVE-2019-5791
+TITLE: CVE-2019-5791
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5791
+
+CVE-2019-5792
+TITLE: CVE-2019-5792
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5792
+
+CVE-2019-5793
+TITLE: CVE-2019-5793
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5793
+
+CVE-2019-5795
+TITLE: CVE-2019-5795
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5795
+
+CVE-2019-5798
+TITLE: CVE-2019-5798
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5798
+
+CVE-2019-5799
+TITLE: CVE-2019-5799
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5799
+
+CVE-2019-5800
+TITLE: CVE-2019-5800
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5800
+
+CVE-2019-5803
+TITLE: CVE-2019-5803
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5803
+
+CVE-2019-5805
+TITLE: CVE-2019-5805
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5805
+
+CVE-2019-5807
+TITLE: CVE-2019-5807
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5807
+
+CVE-2019-5808
+TITLE: CVE-2019-5808
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5808
+
+CVE-2019-5809
+TITLE: CVE-2019-5809
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5809
+
+CVE-2019-5810
+TITLE: CVE-2019-5810
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5810
+
+CVE-2019-5811
+TITLE: CVE-2019-5811
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5811
+
+CVE-2019-5813
+TITLE: CVE-2019-5813
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5813
+
+CVE-2019-5814
+TITLE: CVE-2019-5814
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5814
+
+CVE-2019-5818
+TITLE: CVE-2019-5818
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5818
+
+CVE-2019-5820
+TITLE: CVE-2019-5820
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5820
+
+CVE-2019-5821
+TITLE: CVE-2019-5821
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5821
+
+CVE-2019-5822
+TITLE: CVE-2019-5822
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5822
+
+CVE-2019-5823
+TITLE: CVE-2019-5823
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5823
+
+CVE-2019-5824
+TITLE: CVE-2019-5824
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5824
+
+CVE-2019-5827
+TITLE: CVE-2019-5827
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5827
+
+CVE-2019-5828
+TITLE: CVE-2019-5828
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5828
+
+CVE-2019-5829
+TITLE: CVE-2019-5829
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5829
+
+CVE-2019-5830
+TITLE: CVE-2019-5830
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5830
+
+CVE-2019-5831
+TITLE: CVE-2019-5831
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5831
+
+CVE-2019-5832
+TITLE: CVE-2019-5832
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5832
+
+CVE-2019-5834
+TITLE: CVE-2019-5834
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5834
+
+CVE-2019-5835
+TITLE: CVE-2019-5835
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5835
+
+CVE-2019-5836
+TITLE: CVE-2019-5836
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5836
+
+CVE-2019-5837
+TITLE: CVE-2019-5837
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5837
+
+CVE-2019-5838
+TITLE: CVE-2019-5838
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5838
+
+CVE-2019-5839
+TITLE: CVE-2019-5839
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5839
+
+CVE-2020-6382
+TITLE: CVE-2020-6382
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6382
+
+CVE-2020-6385
+TITLE: CVE-2020-6385
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6385
+
+CVE-2020-6390
+TITLE: CVE-2020-6390
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6390
+
+CVE-2020-6391
+TITLE: CVE-2020-6391
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6391
+
+CVE-2020-6392
+TITLE: CVE-2020-6392
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6392
+
+CVE-2020-6393
+TITLE: CVE-2020-6393
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6393
+
+CVE-2020-6394
+TITLE: CVE-2020-6394
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6394
+
+CVE-2020-6396
+TITLE: CVE-2020-6396
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6396
+
+CVE-2020-6397
+TITLE: CVE-2020-6397
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6397
+
+CVE-2020-6398
+TITLE: CVE-2020-6398
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6398
+
+CVE-2020-6400
+TITLE: CVE-2020-6400
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6400
+
+CVE-2020-6404
+TITLE: CVE-2020-6404
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6404
+
+CVE-2020-6406
+TITLE: CVE-2020-6406
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6406
+
+CVE-2020-6408
+TITLE: CVE-2020-6408
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6408
+
+CVE-2020-6415
+TITLE: CVE-2020-6415
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6415
+
+CVE-2020-6416
+TITLE: CVE-2020-6416
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6416
+
+CVE-2020-6425
+TITLE: CVE-2020-6425
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6425
+
+CVE-2020-6431
+TITLE: CVE-2020-6431
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6431
+
+CVE-2020-6432
+TITLE: CVE-2020-6432
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6432
+
+CVE-2020-6433
+TITLE: CVE-2020-6433
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6433
+
+CVE-2020-6435
+TITLE: CVE-2020-6435
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6435
+
+CVE-2020-6437
+TITLE: CVE-2020-6437
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6437
+
+CVE-2020-6439
+TITLE: CVE-2020-6439
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6439
+
+CVE-2020-6440
+TITLE: CVE-2020-6440
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6440
+
+CVE-2020-6441
+TITLE: CVE-2020-6441
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6441
+
+CVE-2020-6442
+TITLE: CVE-2020-6442
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6442
+
+CVE-2020-6443
+TITLE: CVE-2020-6443
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6443
+
+CVE-2020-6445
+TITLE: CVE-2020-6445
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6445
+
+CVE-2020-6446
+TITLE: CVE-2020-6446
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6446
+
+CVE-2020-6452
+TITLE: CVE-2020-6452
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6452
+
+CVE-2020-6455
+TITLE: CVE-2020-6455
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6455
+
+CVE-2020-6456
+TITLE: CVE-2020-6456
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6456
+
+CVE-2020-6493
+TITLE: CVE-2020-6493
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6493
+
+CVE-2020-6495
+TITLE: CVE-2020-6495
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6495
+
+CVE-2022-2294
+TITLE: CVE-2022-2294
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2294
+
+CVE-2022-2743
+TITLE: CVE-2022-2743
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2743
+
+CVE-2024-0222
+TITLE: CVE-2024-0222
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0222
+
+CVE-2024-0223
+TITLE: CVE-2024-0223
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0223
+
+CVE-2024-0224
+TITLE: CVE-2024-0224
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0224
+
+CVE-2024-0225
+TITLE: CVE-2024-0225
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0225
+
+CVE-2024-0333
+TITLE: CVE-2024-0333
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0333
+
+CVE-2024-0517
+TITLE: CVE-2024-0517
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0517
+
+CVE-2024-0518
+TITLE: CVE-2024-0518
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0518
+
+CVE-2024-0519
+TITLE: CVE-2024-0519
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0519
+
+CVE-2024-0804
+TITLE: CVE-2024-0804
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0804
+
+CVE-2024-0805
+TITLE: CVE-2024-0805
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0805
+
+CVE-2024-0806
+TITLE: CVE-2024-0806
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0806
+
+CVE-2024-0807
+TITLE: CVE-2024-0807
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0807
+
+CVE-2024-0808
+TITLE: CVE-2024-0808
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0808
+
+CVE-2024-0809
+TITLE: CVE-2024-0809
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0809
+
+CVE-2024-0810
+TITLE: CVE-2024-0810
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0810
+
+CVE-2024-0811
+TITLE: CVE-2024-0811
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0811
+
+CVE-2024-0812
+TITLE: CVE-2024-0812
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0812
+
+CVE-2024-0813
+TITLE: CVE-2024-0813
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0813
+
+CVE-2024-0814
+TITLE: CVE-2024-0814
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0814
+
+CVE-2024-1059
+TITLE: CVE-2024-1059
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-1059
+
+CVE-2024-1060
+TITLE: CVE-2024-1060
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-1060
+
+CVE-2024-1077
+TITLE: CVE-2024-1077
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-1077
+
+CVE-2024-1283
+TITLE: CVE-2024-1283
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-1283
+
+CVE-2024-1284
+TITLE: CVE-2024-1284
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-1284
+
+CVE-2023-4863
+TITLE: Exploit for Out-of-bounds Write in Google Chrome
+HREF: https://github.com/bbaranoff/CVE-2023-4863
+
+CVE-2024-0519
+TITLE: Exploit for Out-of-bounds Write in Google Chrome
+HREF: https://github.com/JohnHormond/CVE-2024-0519-Chrome-exploit
+
+CVE-2023-4357
+TITLE: Exploit for Vulnerability in Google Chrome
+HREF: https://github.com/passwa11/CVE-2023-4357-APT-Style-exploitation
+
+CVE-2020-6404
+TITLE: Google Chrome 80.0.3987.87 - Heap-Corruption Remote Denial of Service (PoC)
+HREF: https://www.exploit-db.com/exploits/48237
+
+CVE-2020-6404
+TITLE: Google Chrome 80.0.3987.87 - Heap-Corruption Remote Denial of Service (PoC)
+HREF: 
+
+CVE-2023-4863
+TITLE: Exploit for Out-of-bounds Write in Google Chrome
+HREF: https://github.com/Microsvuln/CVE-2023-4863
+
+CVE-2023-4863
+TITLE: Exploit for Out-of-bounds Write in Google Chrome
+HREF: https://github.com/LiveOverflow/webp-CVE-2023-4863
+
+CVE-2023-4357
+TITLE: Exploit for Vulnerability in Google Chrome
+HREF: https://github.com/xcanwin/CVE-2023-4357-Chrome-LFI
+
+CVE-2023-3727, CVE-2023-3728, CVE-2023-3730, CVE-2023-3732, CVE-2023-3733, CVE-2023-3734, CVE-2023-3735, CVE-2023-3736, CVE-2023-3737, CVE-2023-3738, CVE-2023-3740
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/07/stable-channel-update-for-desktop.html
+
+CVE-2024-1669, CVE-2024-1670, CVE-2024-1671, CVE-2024-1672, CVE-2024-1673, CVE-2024-1674, CVE-2024-1675, CVE-2024-1676
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2024/02/stable-channel-update-for-desktop_20.html
+
+CVE-2024-0222, CVE-2024-0223, CVE-2024-0224, CVE-2024-0225
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop.html
+
+CVE-2023-1213, CVE-2023-1214, CVE-2023-1215, CVE-2023-1216, CVE-2023-1217, CVE-2023-1218, CVE-2023-1219, CVE-2023-1220, CVE-2023-1221, CVE-2023-1222, CVE-2023-1223, CVE-2023-1224, CVE-2023-1225, CVE-2023-1226, CVE-2023-1227, CVE-2023-1228, CVE-2023-1229, CVE-2023-1230, CVE-2023-1231, CVE-2023-1232, CVE-2023-1233, CVE-2023-1234, CVE-2023-1235, CVE-2023-1236, CVE-2023-2314
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/03/stable-channel-update-for-desktop.html
+
+CVE-2023-5480, CVE-2023-5482, CVE-2023-5849, CVE-2023-5850, CVE-2023-5851, CVE-2023-5852, CVE-2023-5853, CVE-2023-5854, CVE-2023-5855, CVE-2023-5856, CVE-2023-5857, CVE-2023-5858, CVE-2023-5859
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/10/stable-channel-update-for-desktop_31.html
+
+CVE-2024-1938, CVE-2024-1939
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2024/02/stable-channel-update-for-desktop_27.html
+
+CVE-2023-3079
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/06/stable-channel-update-for-desktop.html
+
+CVE-2023-4863
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/09/stable-channel-update-for-desktop_11.html
+
+CVE-2024-1283, CVE-2024-1284
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2024/02/stable-channel-update-for-desktop.html
+
+CVE-2023-2312, CVE-2023-4349, CVE-2023-4350, CVE-2023-4351, CVE-2023-4352, CVE-2023-4353, CVE-2023-4354, CVE-2023-4355, CVE-2023-4356, CVE-2023-4357, CVE-2023-4358, CVE-2023-4359, CVE-2023-4360, CVE-2023-4361, CVE-2023-4362, CVE-2023-4363, CVE-2023-4364, CVE-2023-4365, CVE-2023-4366, CVE-2023-4367, CVE-2023-4368
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/08/stable-channel-update-for-desktop_15.html
+
+CVE-2023-7024
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/12/stable-channel-update-for-desktop_20.html
+
+CVE-2024-0804, CVE-2024-0805, CVE-2024-0806, CVE-2024-0807, CVE-2024-0808, CVE-2024-0809, CVE-2024-0810, CVE-2024-0811, CVE-2024-0812, CVE-2024-0813, CVE-2024-0814
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_23.html
+
+CVE-2024-0333
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_9.html
+
+CVE-2023-3420, CVE-2023-3421, CVE-2023-3422
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/06/stable-channel-update-for-desktop_26.html
+
+CVE-2023-2133, CVE-2023-2134, CVE-2023-2135, CVE-2023-2136, CVE-2023-2137
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/04/stable-channel-update-for-desktop_18.html
+
+CVE-2023-6702, CVE-2023-6703, CVE-2023-6704, CVE-2023-6705, CVE-2023-6706, CVE-2023-6707
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/12/stable-channel-update-for-desktop_12.html
+
+CVE-2023-1528, CVE-2023-1529, CVE-2023-1530, CVE-2023-1531, CVE-2023-1532, CVE-2023-1533, CVE-2023-1534
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/03/stable-channel-update-for-desktop_21.html
+
+CVE-2024-1059, CVE-2024-1060, CVE-2024-1077
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_30.html
+
+CVE-2023-2459, CVE-2023-2460, CVE-2023-2461, CVE-2023-2462, CVE-2023-2463, CVE-2023-2464, CVE-2023-2465, CVE-2023-2466, CVE-2023-2467, CVE-2023-2468
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/05/stable-channel-update-for-desktop.html
+
+CVE-2023-4068, CVE-2023-4069, CVE-2023-4070, CVE-2023-4071, CVE-2023-4072, CVE-2023-4073, CVE-2023-4074, CVE-2023-4075, CVE-2023-4076, CVE-2023-4077, CVE-2023-4078
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/08/stable-channel-update-for-desktop.html
+
+CVE-2023-3214, CVE-2023-3215, CVE-2023-3216, CVE-2023-3217
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/06/stable-channel-update-for-desktop_13.html
+
+CVE-2023-4427, CVE-2023-4428, CVE-2023-4429, CVE-2023-4430, CVE-2023-4431
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/08/chrome-desktop-stable-update.html
+
+CVE-2023-5997, CVE-2023-6112
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/11/stable-channel-update-for-desktop_14.html
+
+CVE-2023-5346
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/10/stable-channel-update-for-desktop.html
+
+CVE-2023-5218, CVE-2023-5473, CVE-2023-5474, CVE-2023-5475, CVE-2023-5476, CVE-2023-5477, CVE-2023-5478, CVE-2023-5479, CVE-2023-5481, CVE-2023-5483, CVE-2023-5484, CVE-2023-5485, CVE-2023-5486, CVE-2023-5487
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/10/stable-channel-update-for-desktop_10.html
+
+CVE-2024-2173, CVE-2024-2174, CVE-2024-2176
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2024/03/stable-channel-update-for-desktop.html
+
+CVE-2024-0517, CVE-2024-0518, CVE-2024-0519
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_16.html
+
+CVE-2023-5472
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/10/stable-channel-update-for-desktop_24.html
+
+CVE-2023-2033
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/04/stable-channel-update-for-desktop_14.html
+
+CVE-2023-1810, CVE-2023-1811, CVE-2023-1812, CVE-2023-1813, CVE-2023-1814, CVE-2023-1815, CVE-2023-1816, CVE-2023-1817, CVE-2023-1818, CVE-2023-1819, CVE-2023-1820, CVE-2023-1821, CVE-2023-1822, CVE-2023-1823, CVE-2023-2311, CVE-2023-2313
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/04/stable-channel-update-for-desktop.html
+
+CVE-2023-5186, CVE-2023-5187, CVE-2023-5217
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/09/stable-channel-update-for-desktop_27.html
+
+CVE-2023-4863, CVE-2023-4900, CVE-2023-4901, CVE-2023-4902, CVE-2023-4903, CVE-2023-4904, CVE-2023-4905, CVE-2023-4906, CVE-2023-4907, CVE-2023-4908, CVE-2023-4909
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/09/stable-channel-update-for-desktop_12.html
+
+CVE-2023-4572
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/08/stable-channel-update-for-desktop_29.html
+
+CVE-2023-2929, CVE-2023-2930, CVE-2023-2931, CVE-2023-2932, CVE-2023-2933, CVE-2023-2934, CVE-2023-2935, CVE-2023-2936, CVE-2023-2937, CVE-2023-2938, CVE-2023-2939, CVE-2023-2940, CVE-2023-2941, CVE-2023-3598
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/05/stable-channel-update-for-desktop_30.html
+
+CVE-2023-4761, CVE-2023-4762, CVE-2023-4763, CVE-2023-4764
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/09/stable-channel-update-for-desktop.html
+
+CVE-2024-2400
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2024/03/stable-channel-update-for-desktop_12.html
+
+CVE-2023-6345, CVE-2023-6346, CVE-2023-6347, CVE-2023-6348, CVE-2023-6350, CVE-2023-6351
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/11/stable-channel-update-for-desktop_28.html
+
+CVE-2023-6508, CVE-2023-6509, CVE-2023-6510, CVE-2023-6511, CVE-2023-6512
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/12/stable-channel-update-for-desktop.html
+
+CVE-2023-5996
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/11/stable-channel-update-for-desktop.html
+
+CVE-2023-2721, CVE-2023-2722, CVE-2023-2723, CVE-2023-2724, CVE-2023-2725, CVE-2023-2726
+TITLE: Stable Channel Update for Desktop
+HREF: https://chromereleases.googleblog.com/2023/05/stable-channel-update-for-desktop_16.html
+
+CVE-2020-6404
+TITLE: Google Chrome 80.0.3987.87 Denial Of Service
+HREF: https://packetstormsecurity.com/files/156851/Google-Chrome-80.0.3987.87-Denial-Of-Service.html
+
+CVE-2023-2724
+TITLE: Chrome Internal JavaScript Object Access Via Origin Trials
+HREF: https://packetstormsecurity.com/files/173131/Chrome-Internal-JavaScript-Object-Access-Via-Origin-Trials.html
+
+CVE-2023-2935
+TITLE: Chrome v8::internal::Object::SetPropertyWithAccessor Type Confusion
+HREF: https://packetstormsecurity.com/files/173196/Chrome-v8-internal-Object-SetPropertyWithAccessor-Type-Confusion.html
+
+CVE-2023-2936
+TITLE: Chrome V8 Type Confusion
+HREF: https://packetstormsecurity.com/files/173197/Chrome-V8-Type-Confusion.html
+
+CVE-2023-4352
+TITLE: Chrome Read-Only Property Overwrite
+HREF: https://packetstormsecurity.com/files/174669/Chrome-Read-Only-Property-Overwrite.html
+

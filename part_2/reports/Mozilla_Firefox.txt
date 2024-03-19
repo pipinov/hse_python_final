@@ -1,0 +1,3357 @@
+Vulnerabilities found for Mozilla Firefox version 61.0.1:
+CVE-2019-9810
+TITLE: Firefox 66.0.1 - Array.prototype.slice Buffer Overflow Exploit
+HREF: https://0day.today/exploit/description/32423
+
+CVE-2019-9791
+TITLE: Spidermonkey - IonMonkey Type Inference is Incorrect for Constructors Entered via OSR
+HREF: https://0day.today/exploit/description/32433
+
+CVE-2019-9813
+TITLE: SpiderMonkey - IonMonkey Compiled Code Fails to Update Inferred Property Types (Type Confusion)
+HREF: https://0day.today/exploit/description/32482
+
+CVE-2019-9792
+TITLE: Spidermonkey IonMonkey JS_OPTIMIZED_OUT Value Leak Exploit
+HREF: https://0day.today/exploit/description/32814
+
+CVE-2019-9816
+TITLE: Spidermonkey - IonMonkey Unexpected ObjectGroup in ObjectGroupDispatch Operation Exploit
+HREF: https://0day.today/exploit/description/32815
+
+CVE-2019-17026, CVE-2020-0674
+TITLE: Mozilla Firefox 72 IonMonkey - JIT Type Confusion Exploit
+HREF: https://0day.today/exploit/description/36241
+
+CVE-2019-11707, CVE-2019-11708, CVE-2019-17026
+TITLE: Mozilla Firefox 67 - Array.pop JIT Type Confusion Exploit
+HREF: https://0day.today/exploit/description/37293
+
+CVE-2020-26950
+TITLE: Firefox MCallGetProperty Write Side Effects Use-After-Free Exploit
+HREF: https://0day.today/exploit/description/37440
+
+CVE-2023-5217
+TITLE: Exploit for Out-of-bounds Write in Webmproject Libvpx
+HREF: https://github.com/Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217
+
+CVE-2023-4863
+TITLE: Exploit for Out-of-bounds Write in Google Chrome
+HREF: https://github.com/murphysecurity/libwebp-checker
+
+CVE-2023-5217
+TITLE: Exploit for Out-of-bounds Write in Webmproject Libvpx
+HREF: https://github.com/wrv/cve-2023-5217-poc
+
+CVE-2023-5217
+TITLE: Exploit for Out-of-bounds Write in Webmproject Libvpx
+HREF: https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217
+
+CVE-2022-28282
+TITLE: Exploit for Use After Free in Mozilla Firefox Esr
+HREF: https://github.com/Pwnrin/CVE-2022-28282
+
+CVE-2022-22736
+TITLE: Mozilla Firefox Elevation of Privilege Vulnerability (CNVD-2023-17318)
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-17318
+
+CVE-2022-28285
+TITLE: Mozilla Firefox Resource Management Error Vulnerability (CNVD-2023-17321)
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-17321
+
+CVE-2022-36320
+TITLE: Mozilla Firefox Buffer Overflow Vulnerability (CNVD-2023-17324)
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-17324
+
+CVE-2022-36315
+TITLE: Mozilla Firefox Resource Management Error Vulnerability (CNVD-2023-17325)
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-17325
+
+CVE-2022-29910
+TITLE: Mozilla Firefox Security Feature Issue Vulnerability (CNVD-2023-17326)
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-17326
+
+CVE-2023-34417
+TITLE: Mozilla Firefox Buffer Overflow Vulnerability (CNVD-2023-55349)
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-55349
+
+CVE-2023-29535
+TITLE: Mozilla Firefox ESR Denial of Service Vulnerability (CNVD-2023-55353)
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-55353
+
+CVE-2023-37211
+TITLE: Mozilla Firefox Buffer Overflow Vulnerability (CNVD-2023-59026)
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-59026
+
+CVE-2022-22760
+TITLE: Mozilla Firefox Information Disclosure Vulnerability (CNVD-2023-59031)
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-59031
+
+CVE-2022-29917
+TITLE: Mozilla Firefox Buffer Overflow Vulnerability (CNVD-2023-59954)
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-59954
+
+CVE-2022-26384
+TITLE: Mozilla Firefox Permission License and Access Control Issues Vulnerability (CNVD-2023-59958)
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-59958
+
+CVE-2023-4050
+TITLE: Mozilla Firefox and Firefox ESR Buffer Overflow Vulnerability
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-68210
+
+CVE-2023-4049
+TITLE: Mozilla Firefox and Firefox ESR Competitive Conditions Issue Vulnerability
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-68211
+
+CVE-2023-4046
+TITLE: Mozilla Firefox and Firefox ESR Denial of Service Vulnerability (CNVD-2023-68212)
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-68212
+
+CVE-2023-25748
+TITLE: Mozilla Firefox Code Problem Vulnerability (CNVD-2023-68213)
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-68213
+
+CVE-2022-22756
+TITLE: Mozilla Thunderbird and Firefox Arbitrary Code Execution Vulnerability
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-68214
+
+CVE-2022-34482
+TITLE: Mozilla Firefox Input Validation Error Vulnerability (CNVD-2023-68216)
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-68216
+
+CVE-2023-4573
+TITLE: Mozilla Firefox Code Problem Vulnerability (CNVD-2023-75344)
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-75344
+
+CVE-2023-4584
+TITLE: Mozilla Firefox ESR Memory Corrupted Code Execution Vulnerability (CNVD-2023-75345)
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-75345
+
+CVE-2022-46881
+TITLE: Mozilla Thunderbird and Firefox Denial of Service Vulnerability
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-75347
+
+CVE-2022-22755
+TITLE: Mozilla Firefox Resource Misuse Vulnerability
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-75348
+
+CVE-2022-46878
+TITLE: Mozilla Firefox Memory Corruption Vulnerability (CNVD-2023-75349)
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-75349
+
+CVE-2022-34483
+TITLE: Mozilla Firefox Remote Code Execution Vulnerability
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-75350
+
+CVE-2022-34481
+TITLE: Mozilla Firefox integer overflow vulnerability (CNVD-2023-75351)
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-75351
+
+CVE-2022-34468
+TITLE: Mozilla Firefox Security Feature Issue Vulnerability (CNVD-2023-86126)
+HREF: https://www.cnvd.org.cn/flaw/show/CNVD-2023-86126
+
+CVE-2019-11709
+TITLE: CVE-2019-11709
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-11709
+
+CVE-2023-6870
+TITLE: CVE-2023-6870
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-6870
+
+CVE-2024-0741
+TITLE: CVE-2024-0741
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0741
+
+CVE-2024-0742
+TITLE: CVE-2024-0742
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0742
+
+CVE-2024-0743
+TITLE: CVE-2024-0743
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0743
+
+CVE-2024-0744
+TITLE: CVE-2024-0744
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0744
+
+CVE-2024-0745
+TITLE: CVE-2024-0745
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0745
+
+CVE-2024-0746
+TITLE: CVE-2024-0746
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0746
+
+CVE-2024-0747
+TITLE: CVE-2024-0747
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0747
+
+CVE-2024-0748
+TITLE: CVE-2024-0748
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0748
+
+CVE-2024-0749
+TITLE: CVE-2024-0749
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0749
+
+CVE-2024-0750
+TITLE: CVE-2024-0750
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0750
+
+CVE-2024-0751
+TITLE: CVE-2024-0751
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0751
+
+CVE-2024-0752
+TITLE: CVE-2024-0752
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0752
+
+CVE-2024-0753
+TITLE: CVE-2024-0753
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0753
+
+CVE-2024-0754
+TITLE: CVE-2024-0754
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0754
+
+CVE-2024-0755
+TITLE: CVE-2024-0755
+HREF: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-0755
+
+CVE-2023-4863
+TITLE: Exploit for Out-of-bounds Write in Google Chrome
+HREF: https://github.com/bbaranoff/CVE-2023-4863
+
+2019-9791, CVE-2019-9791
+TITLE: Spidermonkey - IonMonkey Type Inference is Incorrect for Constructors Entered via OSR
+HREF: https://www.exploit-db.com/exploits/46613
+
+2019-9813, CVE-2019-9813
+TITLE: SpiderMonkey - IonMonkey Compiled Code Fails to Update Inferred Property Types (Type Confusion)
+HREF: https://www.exploit-db.com/exploits/46646
+
+2019-9792, CVE-2019-9792
+TITLE: Spidermonkey - IonMonkey Leaks JS_OPTIMIZED_OUT Magic Value to Script
+HREF: https://www.exploit-db.com/exploits/46939
+
+2019-11708, 2019-9810, CVE-2019-11708, CVE-2019-9810
+TITLE: Mozilla FireFox (Windows 10 x64) - Full Chain Client Side Attack
+HREF: https://www.exploit-db.com/exploits/47752
+
+2019-17026, CVE-2019-17026, CVE-2020-0674
+TITLE: Firefox 72 IonMonkey - JIT Type Confusion
+HREF: https://www.exploit-db.com/exploits/49864
+
+2019-11707, CVE-2019-11707, CVE-2019-11708, CVE-2019-17026
+TITLE: Mozilla Firefox 67 - Array.pop JIT Type Confusion
+HREF: https://www.exploit-db.com/exploits/50691
+
+CVE-2023-4863
+TITLE: Exploit for Out-of-bounds Write in Google Chrome
+HREF: https://github.com/Microsvuln/CVE-2023-4863
+
+CVE-2023-4863
+TITLE: Exploit for Out-of-bounds Write in Google Chrome
+HREF: https://github.com/LiveOverflow/webp-CVE-2023-4863
+
+CVE-2023-25748, CVE-2023-25749, CVE-2023-25750, CVE-2023-25751, CVE-2023-25752, CVE-2023-28159, CVE-2023-28160, CVE-2023-28161, CVE-2023-28162, CVE-2023-28163, CVE-2023-28164, CVE-2023-28176, CVE-2023-28177
+TITLE: Security Vulnerabilities fixed in Firefox 111 — Mozilla
+HREF: https://www.mozilla.org/en-US/security/advisories/mfsa2023-09/
+
+CVE-2023-1999, CVE-2023-28163, CVE-2023-29531, CVE-2023-29532, CVE-2023-29533, CVE-2023-29534, CVE-2023-29535, CVE-2023-29536, CVE-2023-29537, CVE-2023-29538, CVE-2023-29539, CVE-2023-29540, CVE-2023-29541, CVE-2023-29542, CVE-2023-29543, CVE-2023-29544, CVE-2023-29545, CVE-2023-29546, CVE-2023-29547, CVE-2023-29548, CVE-2023-29549, CVE-2023-29550, CVE-2023-29551
+TITLE: Security Vulnerabilities fixed in Firefox 112, Firefox for Android 112, Focus for Android 112 — Mozilla
+HREF: https://www.mozilla.org/en-US/security/advisories/mfsa2023-13/
+
+CVE-2023-32205, CVE-2023-32206, CVE-2023-32207, CVE-2023-32208, CVE-2023-32209, CVE-2023-32210, CVE-2023-32211, CVE-2023-32212, CVE-2023-32213, CVE-2023-32214, CVE-2023-32215, CVE-2023-32216
+TITLE: Security Vulnerabilities fixed in Firefox 113 — Mozilla
+HREF: https://www.mozilla.org/en-US/security/advisories/mfsa2023-16/
+
+CVE-2023-34414, CVE-2023-34415, CVE-2023-34416, CVE-2023-34417
+TITLE: Security Vulnerabilities fixed in Firefox 114 — Mozilla
+HREF: https://www.mozilla.org/en-US/security/advisories/mfsa2023-20/
+
+CVE-2023-3482, CVE-2023-37201, CVE-2023-37202, CVE-2023-37203, CVE-2023-37204, CVE-2023-37205, CVE-2023-37206, CVE-2023-37207, CVE-2023-37208, CVE-2023-37209, CVE-2023-37210, CVE-2023-37211, CVE-2023-37212
+TITLE: Security Vulnerabilities fixed in Firefox 115 — Mozilla
+HREF: https://www.mozilla.org/en-US/security/advisories/mfsa2023-22/
+
+CVE-2023-3600
+TITLE: Security Vulnerabilities fixed in Firefox 115.0.2 and Firefox ESR 115.0.2 — Mozilla
+HREF: https://www.mozilla.org/en-US/security/advisories/mfsa2023-26/
+
+CVE-2023-4045, CVE-2023-4046, CVE-2023-4047, CVE-2023-4048, CVE-2023-4049, CVE-2023-4050, CVE-2023-4051, CVE-2023-4052, CVE-2023-4053, CVE-2023-4054, CVE-2023-4055, CVE-2023-4056, CVE-2023-4057, CVE-2023-4058
+TITLE: Security Vulnerabilities fixed in Firefox 116 — Mozilla
+HREF: https://www.mozilla.org/en-US/security/advisories/mfsa2023-29/
+
+CVE-2023-4573, CVE-2023-4574, CVE-2023-4575, CVE-2023-4576, CVE-2023-4577, CVE-2023-4578, CVE-2023-4579, CVE-2023-4580, CVE-2023-4581, CVE-2023-4582, CVE-2023-4583, CVE-2023-4584, CVE-2023-4585, CVE-2023-5732
+TITLE: Security Vulnerabilities fixed in Firefox 117 — Mozilla
+HREF: https://www.mozilla.org/en-US/security/advisories/mfsa2023-34/
+
+CVE-2023-4863, CVE-2023-5129
+TITLE: Security Vulnerability fixed in Firefox 117.0.1, Firefox ESR 115.2.1, Firefox ESR 102.15.1, Thunderbird 102.15.1, and Thunderbird 115.2.2 — Mozilla
+HREF: https://www.mozilla.org/en-US/security/advisories/mfsa2023-40/
+
+CVE-2023-5168, CVE-2023-5169, CVE-2023-5170, CVE-2023-5171, CVE-2023-5172, CVE-2023-5173, CVE-2023-5174, CVE-2023-5175, CVE-2023-5176
+TITLE: Security Vulnerabilities fixed in Firefox 118 — Mozilla
+HREF: https://www.mozilla.org/en-US/security/advisories/mfsa2023-41/
+
+CVE-2023-5217
+TITLE: Security Vulnerability fixed in Firefox 118.0.1, Firefox ESR 115.3.1, Firefox for Android 118.1.0, Firefox Focus for Android 118.1.0, and Thunderbird 115.3.1. — Mozilla
+HREF: https://www.mozilla.org/en-US/security/advisories/mfsa2023-44/
+
+CVE-2023-5721, CVE-2023-5722, CVE-2023-5723, CVE-2023-5724, CVE-2023-5725, CVE-2023-5726, CVE-2023-5727, CVE-2023-5728, CVE-2023-5729, CVE-2023-5730, CVE-2023-5731
+TITLE: Security Vulnerabilities fixed in Firefox 119 — Mozilla
+HREF: https://www.mozilla.org/en-US/security/advisories/mfsa2023-45/
+
+CVE-2023-6204, CVE-2023-6205, CVE-2023-6206, CVE-2023-6207, CVE-2023-6208, CVE-2023-6209, CVE-2023-6210, CVE-2023-6211, CVE-2023-6212, CVE-2023-6213
+TITLE: Security Vulnerabilities fixed in Firefox 120 — Mozilla
+HREF: https://www.mozilla.org/en-US/security/advisories/mfsa2023-49/
+
+CVE-2023-6135, CVE-2023-6856, CVE-2023-6857, CVE-2023-6858, CVE-2023-6859, CVE-2023-6860, CVE-2023-6861, CVE-2023-6863, CVE-2023-6864, CVE-2023-6865, CVE-2023-6866, CVE-2023-6867, CVE-2023-6868, CVE-2023-6869, CVE-2023-6870, CVE-2023-6871, CVE-2023-6872, CVE-2023-6873
+TITLE: Security Vulnerabilities fixed in Firefox 121 — Mozilla
+HREF: https://www.mozilla.org/en-US/security/advisories/mfsa2023-56/
+
+CVE-2024-0741, CVE-2024-0742, CVE-2024-0743, CVE-2024-0744, CVE-2024-0745, CVE-2024-0746, CVE-2024-0747, CVE-2024-0748, CVE-2024-0749, CVE-2024-0750, CVE-2024-0751, CVE-2024-0752, CVE-2024-0753, CVE-2024-0754, CVE-2024-0755
+TITLE: Security Vulnerabilities fixed in Firefox 122 — Mozilla
+HREF: https://www.mozilla.org/en-US/security/advisories/mfsa2024-01/
+
+CVE-2024-1546, CVE-2024-1547, CVE-2024-1548, CVE-2024-1549, CVE-2024-1550, CVE-2024-1551, CVE-2024-1552, CVE-2024-1553, CVE-2024-1554, CVE-2024-1555, CVE-2024-1556, CVE-2024-1557
+TITLE: Security Vulnerabilities fixed in Firefox 123 — Mozilla
+HREF: https://www.mozilla.org/en-US/security/advisories/mfsa2024-05/
+
+CVE-2023-5388, CVE-2024-2605, CVE-2024-2606, CVE-2024-2607, CVE-2024-2608, CVE-2024-2609, CVE-2024-2610, CVE-2024-2611, CVE-2024-2612, CVE-2024-2613, CVE-2024-2614, CVE-2024-2615
+TITLE: Security Vulnerabilities fixed in Firefox 124 — Mozilla
+HREF: https://www.mozilla.org/en-US/security/advisories/mfsa2024-12/
+
+CVE-2020-26950
+TITLE: Firefox MCallGetProperty Write Side Effects Use After Free Exploit
+HREF: https://www.rapid7.com/db/modules/exploit/multi/browser/firefox_jit_use_after_free/
+
+CVE-2019-9810
+TITLE: Firefox Array.prototype.slice Buffer Overflow
+HREF: https://packetstormsecurity.com/files/152251/Firefox-Array.prototype.slice-Buffer-Overflow.html
+
+CVE-2019-9791
+TITLE: SpiderMonkey IonMonkey Type Confusion
+HREF: https://packetstormsecurity.com/files/152266/SpiderMonkey-IonMonkey-Type-Confusion.html
+
+CVE-2019-9813
+TITLE: SpiderMonkey IonMonkey Type Confusion
+HREF: https://packetstormsecurity.com/files/152304/SpiderMonkey-IonMonkey-Type-Confusion.html
+
+CVE-2019-9792
+TITLE: Spidermonkey IonMonkey JS_OPTIMIZED_OUT Value Leak
+HREF: https://packetstormsecurity.com/files/153106/Spidermonkey-IonMonkey-JS_OPTIMIZED_OUT-Value-Leak.html
+
+CVE-2018-12375
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12375
+
+CVE-2018-12376
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12376
+
+CVE-2018-12377
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12377
+
+CVE-2018-12378
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12378
+
+CVE-2018-12379
+TITLE: Out-of-bounds
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12379
+
+CVE-2018-12381
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12381
+
+CVE-2018-12383
+TITLE: Default credentials
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12383
+
+CVE-2018-12385
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12385
+
+CVE-2018-12386
+TITLE: Type confusion
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12386
+
+CVE-2018-12387
+TITLE: Null pointer dereference
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12387
+
+CVE-2018-12388
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12388
+
+CVE-2018-12390
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12390
+
+CVE-2018-12391
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12391
+
+CVE-2018-12392
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12392
+
+CVE-2018-12393
+TITLE: Integer overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12393
+
+CVE-2018-12395
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12395
+
+CVE-2018-12396
+TITLE: Privilege escalation
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12396
+
+CVE-2018-12397
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12397
+
+CVE-2018-12398
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12398
+
+CVE-2018-12399
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12399
+
+CVE-2018-12400
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12400
+
+CVE-2018-12401
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12401
+
+CVE-2018-12402
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12402
+
+CVE-2018-12403
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12403
+
+CVE-2018-12405
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12405
+
+CVE-2018-12406
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12406
+
+CVE-2018-12407
+TITLE: Buffer overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-12407
+
+CVE-2018-18492
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-18492
+
+CVE-2018-18493
+TITLE: Buffer overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-18493
+
+CVE-2018-18494
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-18494
+
+CVE-2018-18495
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-18495
+
+CVE-2018-18496
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-18496
+
+CVE-2018-18497
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-18497
+
+CVE-2018-18498
+TITLE: Integer overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-18498
+
+CVE-2018-18499
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-18499
+
+CVE-2018-18500
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-18500
+
+CVE-2018-18501
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-18501
+
+CVE-2018-18502
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-18502
+
+CVE-2018-18503
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-18503
+
+CVE-2018-18504
+TITLE: Out-of-bounds
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-18504
+
+CVE-2011-3079, CVE-2018-18505
+TITLE: Authentication flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-18505
+
+CVE-2018-18506
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-18506
+
+CVE-2018-18510
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2018-18510
+
+CVE-2019-11691
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11691
+
+CVE-2019-11692
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11692
+
+CVE-2019-11693
+TITLE: Buffer overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11693
+
+CVE-2019-11694
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11694
+
+CVE-2019-11695
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11695
+
+CVE-2019-11696
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11696
+
+CVE-2019-11697
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11697
+
+CVE-2019-11698
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11698
+
+CVE-2019-11699
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11699
+
+CVE-2019-11700
+TITLE: Open redirect
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11700
+
+CVE-2019-11701
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11701
+
+CVE-2019-11702
+TITLE: Open redirect
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11702
+
+CVE-2019-11708
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11708
+
+CVE-2019-11709
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11709
+
+CVE-2019-11710
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11710
+
+CVE-2019-11711
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11711
+
+CVE-2019-11712
+TITLE: Cross site request forgery (csrf)
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11712
+
+CVE-2019-11713
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11713
+
+CVE-2019-11714
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11714
+
+CVE-2019-11715
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11715
+
+CVE-2019-11716
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11716
+
+CVE-2019-11717
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11717
+
+CVE-2019-11718
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11718
+
+CVE-2019-11719
+TITLE: Information disclosure
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11719
+
+CVE-2019-11720
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11720
+
+CVE-2019-11721
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11721
+
+CVE-2019-11723
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11723
+
+CVE-2019-11724
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11724
+
+CVE-2019-11725
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11725
+
+CVE-2019-11727
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11727
+
+CVE-2019-11728
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11728
+
+CVE-2019-11729
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11729
+
+CVE-2019-11730
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11730
+
+CVE-2019-11733
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11733
+
+CVE-2019-11734
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11734
+
+CVE-2019-11735
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11735
+
+CVE-2019-11736
+TITLE: Race condition
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11736
+
+CVE-2019-11737
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11737
+
+CVE-2019-11738
+TITLE: Input validation
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11738
+
+CVE-2019-11740
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11740
+
+CVE-2019-11741
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11741
+
+CVE-2019-11742
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11742
+
+CVE-2019-11743
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11743
+
+CVE-2019-11744
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11744
+
+CVE-2019-11745
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11745
+
+CVE-2019-11746
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11746
+
+CVE-2019-11747
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11747
+
+CVE-2019-11748
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11748
+
+CVE-2019-11749
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11749
+
+CVE-2019-11750
+TITLE: Type confusion
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11750
+
+CVE-2019-11751
+TITLE: Command injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11751
+
+CVE-2019-11752
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11752
+
+CVE-2019-11753
+TITLE: Privilege escalation
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11753
+
+CVE-2019-11754
+TITLE: Null pointer dereference
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11754
+
+CVE-2019-11756
+TITLE: Input validation
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11756
+
+CVE-2019-11757
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11757
+
+CVE-2019-11758
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11758
+
+CVE-2019-11759
+TITLE: Buffer overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11759
+
+CVE-2019-11760
+TITLE: Stack overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11760
+
+CVE-2019-11761
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11761
+
+CVE-2019-11762
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11762
+
+CVE-2019-11763
+TITLE: Hardcoded credentials
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11763
+
+CVE-2019-11764
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11764
+
+CVE-2019-11765
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-11765
+
+CVE-2019-17000
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-17000
+
+CVE-2019-17002
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-17002
+
+CVE-2019-17005
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-17005
+
+CVE-2019-17008
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-17008
+
+CVE-2019-17009
+TITLE: Sql injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-17009
+
+CVE-2019-17010
+TITLE: Race condition
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-17010
+
+CVE-2019-17011
+TITLE: Race condition
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-17011
+
+CVE-2019-17012
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-17012
+
+CVE-2019-17013
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-17013
+
+CVE-2019-17014
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-17014
+
+CVE-2019-17015
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-17015
+
+CVE-2019-17016
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-17016
+
+CVE-2019-17017
+TITLE: Type confusion
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-17017
+
+CVE-2019-17018
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-17018
+
+CVE-2019-17019
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-17019
+
+CVE-2019-17020
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-17020
+
+CVE-2019-17021
+TITLE: Race condition
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-17021
+
+CVE-2019-17022
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-17022
+
+CVE-2019-17023
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-17023
+
+CVE-2019-17024
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-17024
+
+CVE-2019-17025
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-17025
+
+CVE-2019-17026
+TITLE: Type confusion
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-17026
+
+CVE-2019-25136
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-25136
+
+CVE-2019-9788
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9788
+
+CVE-2019-9789
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9789
+
+CVE-2019-9790
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9790
+
+CVE-2019-9791
+TITLE: Type confusion
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9791
+
+CVE-2019-9792
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9792
+
+CVE-2019-9793
+TITLE: Out-of-bounds
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9793
+
+CVE-2019-9794
+TITLE: Command injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9794
+
+CVE-2019-9795
+TITLE: Type confusion
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9795
+
+CVE-2019-9796
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9796
+
+CVE-2019-9797
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9797
+
+CVE-2019-9798
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9798
+
+CVE-2019-9799
+TITLE: Out-of-bounds
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9799
+
+CVE-2019-9800
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9800
+
+CVE-2019-9801
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9801
+
+CVE-2019-9802
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9802
+
+CVE-2019-9803
+TITLE: Hardcoded credentials
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9803
+
+CVE-2019-9804
+TITLE: Command injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9804
+
+CVE-2019-9805
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9805
+
+CVE-2019-9806
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9806
+
+CVE-2019-9807
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9807
+
+CVE-2019-9808
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9808
+
+CVE-2019-9809
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9809
+
+CVE-2019-9810
+TITLE: Buffer overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9810
+
+CVE-2019-9811
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9811
+
+CVE-2019-9812
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9812
+
+CVE-2019-9813
+TITLE: Type confusion
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9813
+
+CVE-2019-9814
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9814
+
+CVE-2019-9815
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9815
+
+CVE-2019-9816
+TITLE: Type confusion
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9816
+
+CVE-2019-9817
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9817
+
+CVE-2019-9818
+TITLE: Race condition
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9818
+
+CVE-2019-9819
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9819
+
+CVE-2019-9820
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9820
+
+CVE-2019-9821
+TITLE: Race condition
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2019-9821
+
+CVE-2020-12387
+TITLE: Race condition
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12387
+
+CVE-2020-12388
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12388
+
+CVE-2020-12389
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12389
+
+CVE-2020-12390
+TITLE: Security feature bypass
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12390
+
+CVE-2020-12391
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12391
+
+CVE-2020-12392
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12392
+
+CVE-2020-12393
+TITLE: Command injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12393
+
+CVE-2020-12394
+TITLE: Input validation
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12394
+
+CVE-2020-12395
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12395
+
+CVE-2020-12396
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12396
+
+CVE-2020-12399
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12399
+
+CVE-2020-12400
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12400
+
+CVE-2020-12401
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12401
+
+CVE-2020-12402
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12402
+
+CVE-2020-12405
+TITLE: Race condition
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12405
+
+CVE-2020-12406
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12406
+
+CVE-2020-12407
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12407
+
+CVE-2020-12408
+TITLE: Path traversal
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12408
+
+CVE-2020-12409
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12409
+
+CVE-2020-12410
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12410
+
+CVE-2020-12411
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12411
+
+CVE-2020-12412
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12412
+
+CVE-2020-12413
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12413
+
+CVE-2020-12415
+TITLE: Directory traversal
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12415
+
+CVE-2020-12416
+TITLE: Race condition
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12416
+
+CVE-2020-12417
+TITLE: Type confusion
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12417
+
+CVE-2020-12418
+TITLE: Out-of-bounds
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12418
+
+CVE-2020-12419
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12419
+
+CVE-2020-12420
+TITLE: Race condition
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12420
+
+CVE-2020-12421
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12421
+
+CVE-2020-12422
+TITLE: Out-of-bounds
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12422
+
+CVE-2020-12423
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12423
+
+CVE-2020-12424
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12424
+
+CVE-2020-12425
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12425
+
+CVE-2020-12426
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-12426
+
+CVE-2020-15647
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15647
+
+CVE-2020-15648
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15648
+
+CVE-2020-15652
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15652
+
+CVE-2020-15653
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15653
+
+CVE-2020-15654
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15654
+
+CVE-2020-15655
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15655
+
+CVE-2020-15656
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15656
+
+CVE-2020-15657
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15657
+
+CVE-2020-15658
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15658
+
+CVE-2020-15659
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15659
+
+CVE-2020-15663
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15663
+
+CVE-2020-15664
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15664
+
+CVE-2020-15665
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15665
+
+CVE-2020-15666
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15666
+
+CVE-2020-15667
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15667
+
+CVE-2020-15668
+TITLE: Information disclosure
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15668
+
+CVE-2020-15670
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15670
+
+CVE-2020-15671
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15671
+
+CVE-2020-15673
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15673
+
+CVE-2020-15674
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15674
+
+CVE-2020-15675
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15675
+
+CVE-2020-15676
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15676
+
+CVE-2020-15677
+TITLE: Open redirect
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15677
+
+CVE-2020-15678
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15678
+
+CVE-2020-15680
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15680
+
+CVE-2020-15681
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15681
+
+CVE-2020-15682
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15682
+
+CVE-2020-15683
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15683
+
+CVE-2020-15684
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-15684
+
+CVE-2020-16012
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-16012
+
+CVE-2020-26950
+TITLE: Race condition
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26950
+
+CVE-2020-26951
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26951
+
+CVE-2020-26952
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26952
+
+CVE-2020-26953
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26953
+
+CVE-2020-26954
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26954
+
+CVE-2020-26955
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26955
+
+CVE-2020-26956
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26956
+
+CVE-2020-26957
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26957
+
+CVE-2020-26958
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26958
+
+CVE-2020-26959
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26959
+
+CVE-2020-26960
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26960
+
+CVE-2020-26961
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26961
+
+CVE-2020-26962
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26962
+
+CVE-2020-26963
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26963
+
+CVE-2020-26964
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26964
+
+CVE-2020-26965
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26965
+
+CVE-2020-26966
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26966
+
+CVE-2020-26967
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26967
+
+CVE-2020-26968
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26968
+
+CVE-2020-26969
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26969
+
+CVE-2020-26971
+TITLE: Heap overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26971
+
+CVE-2020-26972
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26972
+
+CVE-2020-26973
+TITLE: Authentication flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26973
+
+CVE-2020-26974
+TITLE: Heap overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26974
+
+CVE-2020-26975
+TITLE: Session fixation
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26975
+
+CVE-2020-26976
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26976
+
+CVE-2020-26977
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26977
+
+CVE-2020-26978
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26978
+
+CVE-2020-26979
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-26979
+
+CVE-2020-35111
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-35111
+
+CVE-2020-35112
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-35112
+
+CVE-2020-35113
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-35113
+
+CVE-2020-35114
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-35114
+
+CVE-2020-6796
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6796
+
+CVE-2020-6797
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6797
+
+CVE-2020-6798
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6798
+
+CVE-2020-6799
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6799
+
+CVE-2020-6800
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6800
+
+CVE-2020-6801
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6801
+
+CVE-2020-6805
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6805
+
+CVE-2020-6806
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6806
+
+CVE-2020-6807
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6807
+
+CVE-2020-6808
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6808
+
+CVE-2020-6809
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6809
+
+CVE-2020-6810
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6810
+
+CVE-2020-6811
+TITLE: Command injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6811
+
+CVE-2020-6812
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6812
+
+CVE-2020-6813
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6813
+
+CVE-2020-6814
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6814
+
+CVE-2020-6815
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6815
+
+CVE-2020-6819
+TITLE: Race condition
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6819
+
+CVE-2020-6820
+TITLE: Race condition
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6820
+
+CVE-2020-6821
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6821
+
+CVE-2020-6822
+TITLE: Out-of-bounds
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6822
+
+CVE-2020-6823
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6823
+
+CVE-2020-6824
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6824
+
+CVE-2020-6825
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6825
+
+CVE-2020-6826
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6826
+
+CVE-2020-6829
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6829
+
+CVE-2020-6831
+TITLE: Buffer overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2020-6831
+
+CVE-2021-23953
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23953
+
+CVE-2021-23954
+TITLE: Type confusion
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23954
+
+CVE-2021-23955
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23955
+
+CVE-2021-23956
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23956
+
+CVE-2021-23957
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23957
+
+CVE-2021-23958
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23958
+
+CVE-2021-23959
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23959
+
+CVE-2021-23960
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23960
+
+CVE-2021-23961
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23961
+
+CVE-2021-23962
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23962
+
+CVE-2021-23963
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23963
+
+CVE-2021-23964
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23964
+
+CVE-2021-23965
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23965
+
+CVE-2021-23968
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23968
+
+CVE-2021-23969
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23969
+
+CVE-2021-23970
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23970
+
+CVE-2021-23971
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23971
+
+CVE-2021-23972
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23972
+
+CVE-2021-23973
+TITLE: Information disclosure
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23973
+
+CVE-2021-23974
+TITLE: Hardcoded credentials
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23974
+
+CVE-2021-23975
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23975
+
+CVE-2020-26954, CVE-2021-23976
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23976
+
+CVE-2021-23977
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23977
+
+CVE-2021-23978
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23978
+
+CVE-2021-23979
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23979
+
+CVE-2021-23981
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23981
+
+CVE-2021-23982
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23982
+
+CVE-2021-23983
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23983
+
+CVE-2021-23984
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23984
+
+CVE-2021-23985
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23985
+
+CVE-2021-23986
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23986
+
+CVE-2021-23987
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23987
+
+CVE-2021-23988
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23988
+
+CVE-2021-23994
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23994
+
+CVE-2021-23995
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23995
+
+CVE-2021-23996
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23996
+
+CVE-2021-23997
+TITLE: Type confusion
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23997
+
+CVE-2021-23998
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23998
+
+CVE-2021-23999
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-23999
+
+CVE-2021-24000
+TITLE: Race condition
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-24000
+
+CVE-2021-24001
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-24001
+
+CVE-2021-24002
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-24002
+
+CVE-2021-29944
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29944
+
+CVE-2021-29945
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29945
+
+CVE-2021-29946
+TITLE: Integer overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29946
+
+CVE-2021-29947
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29947
+
+CVE-2021-29951
+TITLE: Command injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29951
+
+CVE-2021-29952
+TITLE: Race condition
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29952
+
+CVE-2021-29953
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29953
+
+CVE-2021-29955
+TITLE: Type confusion
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29955
+
+CVE-2021-29959
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29959
+
+CVE-2021-29960
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29960
+
+CVE-2021-29961
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29961
+
+CVE-2021-29962
+TITLE: Hardcoded credentials
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29962
+
+CVE-2021-29963
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29963
+
+CVE-2021-29964
+TITLE: Out-of-bounds
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29964
+
+CVE-2021-29965
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29965
+
+CVE-2021-29966
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29966
+
+CVE-2021-29967
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29967
+
+CVE-2021-29968
+TITLE: Out-of-bounds
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29968
+
+CVE-2021-29970
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29970
+
+CVE-2021-29971
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29971
+
+CVE-2021-29972
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29972
+
+CVE-2021-29973
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29973
+
+CVE-2021-29974
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29974
+
+CVE-2021-29975
+TITLE: Type confusion
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29975
+
+CVE-2021-29976
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29976
+
+CVE-2021-29977
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29977
+
+CVE-2021-29980
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29980
+
+CVE-2021-29981
+TITLE: Type confusion
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29981
+
+CVE-2021-29982
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29982
+
+CVE-2021-29983
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29983
+
+CVE-2021-29984
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29984
+
+CVE-2021-29985
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29985
+
+CVE-2021-29986
+TITLE: Race condition
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29986
+
+CVE-2021-29987
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29987
+
+CVE-2021-29988
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29988
+
+CVE-2021-29989
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29989
+
+CVE-2021-29990
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29990
+
+CVE-2021-29991
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29991
+
+CVE-2021-29993
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-29993
+
+CVE-2021-30547
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-30547
+
+CVE-2021-38491
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-38491
+
+CVE-2021-38492
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-38492
+
+CVE-2021-38493
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-38493
+
+CVE-2021-38494
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-38494
+
+CVE-2021-38496
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-38496
+
+CVE-2021-38497
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-38497
+
+CVE-2021-38498
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-38498
+
+CVE-2021-38499
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-38499
+
+CVE-2021-38500
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-38500
+
+CVE-2021-38501
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-38501
+
+CVE-2021-38503
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-38503
+
+CVE-2021-38504
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-38504
+
+CVE-2021-38505
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-38505
+
+CVE-2021-38506
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-38506
+
+CVE-2021-38507
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-38507
+
+CVE-2021-38508
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-38508
+
+CVE-2021-38509
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-38509
+
+CVE-2021-38510
+TITLE: Command injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-38510
+
+CVE-2021-4128
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-4128
+
+CVE-2021-4129
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-4129
+
+CVE-2021-4140
+TITLE: Information disclosure
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-4140
+
+CVE-2021-4221
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-4221
+
+CVE-2021-43530
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-43530
+
+CVE-2021-43531, CVE-2021-43532
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-43531
+
+CVE-2021-43532
+TITLE: Authentication flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-43532
+
+CVE-2021-43533
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-43533
+
+CVE-2021-43534
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-43534
+
+CVE-2021-43535
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-43535
+
+CVE-2021-43536
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-43536
+
+CVE-2021-43537
+TITLE: Type confusion
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-43537
+
+CVE-2021-43538
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-43538
+
+CVE-2021-43539
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-43539
+
+CVE-2021-43540
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-43540
+
+CVE-2021-43541
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-43541
+
+CVE-2021-43542
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-43542
+
+CVE-2021-43543
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-43543
+
+CVE-2021-43544
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-43544
+
+CVE-2021-43545
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-43545
+
+CVE-2021-43546
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2021-43546
+
+CVE-2022-0511
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-0511
+
+CVE-2022-0843
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-0843
+
+CVE-2022-1097
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-1097
+
+CVE-2022-1529
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-1529
+
+CVE-2022-1802
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-1802
+
+CVE-2022-1887
+TITLE: Sql injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-1887
+
+CVE-2022-2200
+TITLE: Remote code execution
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-2200
+
+CVE-2022-22736
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22736
+
+CVE-2022-22737
+TITLE: Race condition
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22737
+
+CVE-2022-22738
+TITLE: Heap overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22738
+
+CVE-2022-22739
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22739
+
+CVE-2022-22740
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22740
+
+CVE-2022-22741
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22741
+
+CVE-2022-22742
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22742
+
+CVE-2022-22743
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22743
+
+CVE-2022-22744
+TITLE: Command injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22744
+
+CVE-2022-22745
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22745
+
+CVE-2022-22746
+TITLE: Race condition
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22746
+
+CVE-2022-22747
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22747
+
+CVE-2022-22748
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22748
+
+CVE-2022-22749
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22749
+
+CVE-2022-22750
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22750
+
+CVE-2022-22751
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22751
+
+CVE-2022-22752
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22752
+
+CVE-2022-22753
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22753
+
+CVE-2022-22754
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22754
+
+CVE-2022-22755
+TITLE: Out-of-bounds
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22755
+
+CVE-2022-22756
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22756
+
+CVE-2022-22757
+TITLE: Default configuration
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22757
+
+CVE-2022-22758
+TITLE: Cross site request forgery (csrf)
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22758
+
+CVE-2022-22759
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22759
+
+CVE-2022-22760
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22760
+
+CVE-2022-22761
+TITLE: Security feature bypass
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22761
+
+CVE-2022-22762
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22762
+
+CVE-2022-22763
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22763
+
+CVE-2022-22764
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-22764
+
+CVE-2022-2505
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-2505
+
+CVE-2022-26381
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-26381
+
+CVE-2022-26382
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-26382
+
+CVE-2022-26383
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-26383
+
+CVE-2022-26384
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-26384
+
+CVE-2022-26385
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-26385
+
+CVE-2022-26387
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-26387
+
+CVE-2022-26485
+TITLE: Double free
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-26485
+
+CVE-2022-26486
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-26486
+
+CVE-2022-28281
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-28281
+
+CVE-2022-28282
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-28282
+
+CVE-2022-28283
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-28283
+
+CVE-2022-28284
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-28284
+
+CVE-2022-28285
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-28285
+
+CVE-2022-28286
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-28286
+
+CVE-2022-28287
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-28287
+
+CVE-2022-28288
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-28288
+
+CVE-2022-28289
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-28289
+
+CVE-2022-29909
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-29909
+
+CVE-2022-29910
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-29910
+
+CVE-2022-29911
+TITLE: Input validation
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-29911
+
+CVE-2022-29912
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-29912
+
+CVE-2022-29914
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-29914
+
+CVE-2022-29915
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-29915
+
+CVE-2022-29916
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-29916
+
+CVE-2022-29917
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-29917
+
+CVE-2022-29918
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-29918
+
+CVE-2022-31736
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-31736
+
+CVE-2022-31737
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-31737
+
+CVE-2022-31738
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-31738
+
+CVE-2022-31739
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-31739
+
+CVE-2022-31740
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-31740
+
+CVE-2022-31741
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-31741
+
+CVE-2022-31742
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-31742
+
+CVE-2022-31743
+TITLE: Hardcoded credentials
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-31743
+
+CVE-2022-31744
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-31744
+
+CVE-2022-31745
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-31745
+
+CVE-2022-31746
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-31746
+
+CVE-2022-31747
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-31747
+
+CVE-2022-31748
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-31748
+
+CVE-2022-3266
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-3266
+
+CVE-2022-34468
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-34468
+
+CVE-2022-34469
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-34469
+
+CVE-2022-34470
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-34470
+
+CVE-2022-34471
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-34471
+
+CVE-2022-34472
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-34472
+
+CVE-2022-34473
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-34473
+
+CVE-2022-34474
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-34474
+
+CVE-2022-34475
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-34475
+
+CVE-2022-34476
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-34476
+
+CVE-2022-34477
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-34477
+
+CVE-2022-34478
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-34478
+
+CVE-2022-34479
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-34479
+
+CVE-2022-34480
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-34480
+
+CVE-2022-34481
+TITLE: Integer overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-34481
+
+CVE-2022-34482, CVE-2022-34483
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-34482
+
+CVE-2022-34482, CVE-2022-34483
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-34483
+
+CVE-2022-34484
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-34484
+
+CVE-2022-36314
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-36314
+
+CVE-2022-36315
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-36315
+
+CVE-2022-36316
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-36316
+
+CVE-2022-36317
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-36317
+
+CVE-2022-36318
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-36318
+
+CVE-2022-36319
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-36319
+
+CVE-2022-36320
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-36320
+
+CVE-2022-38472
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-38472
+
+CVE-2022-38473
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-38473
+
+CVE-2022-38474
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-38474
+
+CVE-2022-38475
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-38475
+
+CVE-2022-38477
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-38477
+
+CVE-2022-38478
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-38478
+
+CVE-2022-40956
+TITLE: Hardcoded credentials
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-40956
+
+CVE-2022-40957
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-40957
+
+CVE-2022-40958
+TITLE: Session fixation
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-40958
+
+CVE-2022-40959
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-40959
+
+CVE-2022-40960
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-40960
+
+CVE-2022-40961
+TITLE: Stack overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-40961
+
+CVE-2022-40962
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-40962
+
+CVE-2022-42927
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-42927
+
+CVE-2022-42928
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-42928
+
+CVE-2022-42929
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-42929
+
+CVE-2022-42930
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-42930
+
+CVE-2022-42931
+TITLE: Unrestricted file upload
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-42931
+
+CVE-2022-42932
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-42932
+
+CVE-2022-45403
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-45403
+
+CVE-2022-45404
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-45404
+
+CVE-2022-45405
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-45405
+
+CVE-2022-45406
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-45406
+
+CVE-2022-45407
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-45407
+
+CVE-2022-45408
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-45408
+
+CVE-2022-45409
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-45409
+
+CVE-2022-45410
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-45410
+
+CVE-2022-45411
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-45411
+
+CVE-2022-45412
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-45412
+
+CVE-2022-45413
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-45413
+
+CVE-2022-45415
+TITLE: Hardcoded credentials
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-45415
+
+CVE-2022-45416
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-45416
+
+CVE-2022-45417
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-45417
+
+CVE-2022-45418
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-45418
+
+CVE-2022-45419
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-45419
+
+CVE-2022-45420
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-45420
+
+CVE-2022-45421
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-45421
+
+CVE-2022-46871
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-46871
+
+CVE-2022-46872
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-46872
+
+CVE-2022-46873
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-46873
+
+CVE-2022-46874
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-46874
+
+CVE-2022-46875
+TITLE: Command injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-46875
+
+CVE-2022-46877
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-46877
+
+CVE-2022-46878
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-46878
+
+CVE-2022-46879
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-46879
+
+CVE-2022-46880
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-46880
+
+CVE-2022-46881
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-46881
+
+CVE-2022-46882
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-46882
+
+CVE-2022-46883
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-46883
+
+CVE-2022-46884
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-46884
+
+CVE-2022-46885
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2022-46885
+
+CVE-2023-0767
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-0767
+
+CVE-2023-23597
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-23597
+
+CVE-2023-23598
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-23598
+
+CVE-2023-23599
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-23599
+
+CVE-2023-23600
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-23600
+
+CVE-2023-23601
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-23601
+
+CVE-2023-23602
+TITLE: Information disclosure
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-23602
+
+CVE-2023-23603
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-23603
+
+CVE-2023-23604
+TITLE: Security feature bypass
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-23604
+
+CVE-2023-23605
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-23605
+
+CVE-2023-23606
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-23606
+
+CVE-2023-25728
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-25728
+
+CVE-2023-25729
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-25729
+
+CVE-2023-25730
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-25730
+
+CVE-2023-25731
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-25731
+
+CVE-2023-25732
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-25732
+
+CVE-2023-25733
+TITLE: Null pointer dereference
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-25733
+
+CVE-2023-25734
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-25734
+
+CVE-2023-25735
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-25735
+
+CVE-2023-25736
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-25736
+
+CVE-2023-25737
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-25737
+
+CVE-2023-25738
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-25738
+
+CVE-2023-25739
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-25739
+
+CVE-2023-25740
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-25740
+
+CVE-2023-25741
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-25741
+
+CVE-2023-25742
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-25742
+
+CVE-2023-25744
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-25744
+
+CVE-2023-25745
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-25745
+
+CVE-2023-25747
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-25747
+
+CVE-2023-25748
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-25748
+
+CVE-2023-25749
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-25749
+
+CVE-2023-25750
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-25750
+
+CVE-2023-25751
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-25751
+
+CVE-2023-25752
+TITLE: Out-of-bounds
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-25752
+
+CVE-2023-28159
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-28159
+
+CVE-2023-28160
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-28160
+
+CVE-2023-28161
+TITLE: Directory traversal
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-28161
+
+CVE-2023-28162
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-28162
+
+CVE-2023-28163
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-28163
+
+CVE-2023-28164
+TITLE: Type confusion
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-28164
+
+CVE-2023-28176
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-28176
+
+CVE-2023-28177
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-28177
+
+CVE-2023-29531
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-29531
+
+CVE-2023-29532
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-29532
+
+CVE-2023-29533
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-29533
+
+CVE-2023-29534
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-29534
+
+CVE-2023-29535
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-29535
+
+CVE-2023-29536
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-29536
+
+CVE-2023-29537
+TITLE: Race condition
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-29537
+
+CVE-2023-29538
+TITLE: Cross site request forgery (csrf)
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-29538
+
+CVE-2023-29539
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-29539
+
+CVE-2023-29540
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-29540
+
+CVE-2023-29541
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-29541
+
+CVE-2023-29542
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-29542
+
+CVE-2023-29543
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-29543
+
+CVE-2023-29544
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-29544
+
+CVE-2023-28163, CVE-2023-29545
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-29545
+
+CVE-2023-29546
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-29546
+
+CVE-2023-29547
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-29547
+
+CVE-2023-29548
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-29548
+
+CVE-2023-29549
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-29549
+
+CVE-2023-29550
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-29550
+
+CVE-2023-29551
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-29551
+
+CVE-2023-32205
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-32205
+
+CVE-2023-32206
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-32206
+
+CVE-2023-32207
+TITLE: Information disclosure
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-32207
+
+CVE-2023-32208
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-32208
+
+CVE-2023-32209
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-32209
+
+CVE-2023-32210
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-32210
+
+CVE-2023-32211
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-32211
+
+CVE-2023-32212
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-32212
+
+CVE-2023-32213
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-32213
+
+CVE-2023-32214
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-32214
+
+CVE-2023-32215
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-32215
+
+CVE-2023-32216
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-32216
+
+CVE-2023-34414
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-34414
+
+CVE-2023-34415
+TITLE: Open redirect
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-34415
+
+CVE-2023-34416
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-34416
+
+CVE-2023-34417
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-34417
+
+CVE-2023-3482
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-3482
+
+CVE-2023-3600
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-3600
+
+CVE-2023-37201
+TITLE: Race condition
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-37201
+
+CVE-2023-37202
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-37202
+
+CVE-2023-37203
+TITLE: Input validation
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-37203
+
+CVE-2023-37204
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-37204
+
+CVE-2023-37205
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-37205
+
+CVE-2023-37206
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-37206
+
+CVE-2023-37207
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-37207
+
+CVE-2023-37208
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-37208
+
+CVE-2023-37209
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-37209
+
+CVE-2023-37210
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-37210
+
+CVE-2023-37211
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-37211
+
+CVE-2023-37212
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-37212
+
+CVE-2023-37455
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-37455
+
+CVE-2023-37456
+TITLE: Session fixation
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-37456
+
+CVE-2023-4045
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4045
+
+CVE-2023-4046
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4046
+
+CVE-2023-4047
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4047
+
+CVE-2023-4048
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4048
+
+CVE-2023-4049
+TITLE: Race condition
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4049
+
+CVE-2023-4050
+TITLE: Stack overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4050
+
+CVE-2023-4051
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4051
+
+CVE-2023-4052
+TITLE: Arbitrary file deletion
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4052
+
+CVE-2023-4053
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4053
+
+CVE-2023-4054
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4054
+
+CVE-2023-4055
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4055
+
+CVE-2023-4056
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4056
+
+CVE-2023-4057
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4057
+
+CVE-2023-4058
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4058
+
+CVE-2023-4573
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4573
+
+CVE-2023-4574
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4574
+
+CVE-2023-4575
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4575
+
+CVE-2023-4576
+TITLE: Integer overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4576
+
+CVE-2023-4577
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4577
+
+CVE-2023-4578
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4578
+
+CVE-2023-4579
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4579
+
+CVE-2023-4580
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4580
+
+CVE-2023-4581
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4581
+
+CVE-2023-4582
+TITLE: Buffer overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4582
+
+CVE-2023-4583
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4583
+
+CVE-2023-4584
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4584
+
+CVE-2023-4585
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4585
+
+CVE-2023-4863
+TITLE: Heap overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-4863
+
+CVE-2023-49060
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-49060
+
+CVE-2023-49061
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-49061
+
+CVE-2023-5168
+TITLE: Out-of-bounds
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-5168
+
+CVE-2023-5169
+TITLE: Out-of-bounds
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-5169
+
+CVE-2023-5170
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-5170
+
+CVE-2023-5171
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-5171
+
+CVE-2023-5172
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-5172
+
+CVE-2023-5173
+TITLE: Integer overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-5173
+
+CVE-2023-5174
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-5174
+
+CVE-2023-5175
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-5175
+
+CVE-2023-5176
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-5176
+
+CVE-2023-5217
+TITLE: Heap overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-5217
+
+CVE-2023-5721
+TITLE: Authorization
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-5721
+
+CVE-2023-5722
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-5722
+
+CVE-2023-5723
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-5723
+
+CVE-2023-5724
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-5724
+
+CVE-2023-5725
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-5725
+
+CVE-2023-5726
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-5726
+
+CVE-2023-5727
+TITLE: Command injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-5727
+
+CVE-2023-5728
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-5728
+
+CVE-2023-5729
+TITLE: Spoofing
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-5729
+
+CVE-2023-5730
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-5730
+
+CVE-2023-5731
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-5731
+
+CVE-2023-5732
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-5732
+
+CVE-2023-5758
+TITLE: Cross site scripting
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-5758
+
+CVE-2023-6135
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6135
+
+CVE-2023-6204
+TITLE: Out-of-bounds
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6204
+
+CVE-2023-6205
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6205
+
+CVE-2023-6206
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6206
+
+CVE-2023-6207
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6207
+
+CVE-2023-6208
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6208
+
+CVE-2023-6209
+TITLE: Path traversal
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6209
+
+CVE-2023-6210
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6210
+
+CVE-2023-6211
+TITLE: Information disclosure
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6211
+
+CVE-2023-6212
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6212
+
+CVE-2023-6213
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6213
+
+CVE-2023-6856
+TITLE: Heap overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6856
+
+CVE-2023-6857
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6857
+
+CVE-2023-6858
+TITLE: Heap overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6858
+
+CVE-2023-6859
+TITLE: Race condition
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6859
+
+CVE-2023-6860
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6860
+
+CVE-2023-6861
+TITLE: Heap overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6861
+
+CVE-2023-6863
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6863
+
+CVE-2023-6864
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6864
+
+CVE-2023-6865
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6865
+
+CVE-2023-6866
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6866
+
+CVE-2023-6867
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6867
+
+CVE-2023-6868
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6868
+
+CVE-2023-6869
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6869
+
+CVE-2023-6870
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6870
+
+CVE-2023-6871
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6871
+
+CVE-2023-6872
+TITLE: Information disclosure
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6872
+
+CVE-2023-6873
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2023-6873
+
+CVE-2024-0741
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2024-0741
+
+CVE-2024-0742
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2024-0742
+
+CVE-2024-0743
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2024-0743
+
+CVE-2024-0744
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2024-0744
+
+CVE-2024-0745
+TITLE: Stack overflow
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2024-0745
+
+CVE-2024-0746
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2024-0746
+
+CVE-2024-0747
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2024-0747
+
+CVE-2024-0748
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2024-0748
+
+CVE-2024-0749
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2024-0749
+
+CVE-2024-0750
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2024-0750
+
+CVE-2024-0751
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2024-0751
+
+CVE-2024-0752
+TITLE: Double free
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2024-0752
+
+CVE-2024-0753
+TITLE: Design/Logic Flaw
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2024-0753
+
+CVE-2024-0754
+TITLE: Code injection
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2024-0754
+
+CVE-2024-0755
+TITLE: Memory corruption
+HREF: https://www.prio-n.com/kb/vulnerability/CVE-2024-0755
+
