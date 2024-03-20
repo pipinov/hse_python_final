@@ -5,7 +5,6 @@ from dotenv import load_dotenv
 load_dotenv()
 
 VULNARIS_API_KEY = os.getenv('VULNARIS_API_KEY')
-VULNARIS_URL = os.getenv('VULNARIS_URL')
 
 def search_vulnerabilities(software, version):
   """
@@ -27,7 +26,7 @@ def search_vulnerabilities(software, version):
     "maxVulnerabilities": 100
   }
 
-  response = requests.get(VULNARIS_URL, params=params)
+  response = requests.get('https://vulners.com/api/v3/burp/softwareapi/', params=params)
 
   if response.status_code == 200:
       return response.json()
